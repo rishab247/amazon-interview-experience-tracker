@@ -50,35 +50,41 @@ GRAPHQL_HEADERS = {
     "Origin": "https://leetcode.com"
 }
 
-GRAPHQL_QUERY = """
-query categoryTopicList($categories: [String!]!, $first: Int!, $after: String, $query: String, $orderBy: TopicSortingOption) {
-  categoryTopicList(categories: $categories, first: $first, after: $after, query: $query, orderBy: $orderBy) {
+GRAPHQL_UGC_ARTICLES_QUERY = """
+query ugcArticleDiscussionArticles($keywords: [String]!, $skip: Int, $first: Int) {
+  ugcArticleDiscussionArticles(keywords: $keywords, skip: $skip, first: $first) {
     totalNum
     edges {
-      cursor
       node {
-        id
+        topicId
         title
-        viewCount
-        topLevelCommentCount
-        post {
-          id
-          creationDate
-          voteCount
-          content
-          author {
-            username
-          }
-        }
+        summary
+        createdAt
         tags {
           name
-          slug
         }
       }
     }
-    pageInfo {
-      hasNextPage
-      endCursor
+  }
+}
+"""
+
+GRAPHQL_UGC_ARTICLE_DETAIL_QUERY = """
+query getDiscussPost($topicId: ID) {
+  ugcArticleDiscussionArticle(topicId: $topicId) {
+    uuid
+    topicId
+    title
+    content
+    summary
+    createdAt
+    hitCount
+    tags {
+      name
+    }
+    author {
+      userName
+      realName
     }
   }
 }
@@ -714,64 +720,93 @@ def run_daily_sync(limit=50, dry_run=False, test_telegram=False):
     existing_ids = {str(item.get("id")) for item in existing_data if item.get("id")}
     existing_urls = {item.get("url") for item in existing_data if item.get("url")}
 
-    print(f"[*] Querying LeetCode GraphQL for latest {limit} Amazon interview experiences...")
-    variables = {
-        "categories": ["interview-experience"],
-        "first": limit,
-        "query": "Amazon",
-        "orderBy": "newest_to_oldest"
-    }
+    print(f"[*] Querying modern LeetCode UGC GraphQL for latest {limit} Amazon interview experiences...")
+    
+    # Query modern UGC GraphQL endpoint with Amazon interview keywords
+    candidate_edges = []
+    seen_topic_ids = set()
 
-    response = make_graphql_request(GRAPHQL_QUERY, variables)
-    if not response or "data" not in response:
-        print("[-] Error: Failed to receive valid response from LeetCode GraphQL API.")
-        return 1
+    for kw_list in [["Amazon", "interview"], ["Amazon", "SDE"]]:
+        variables = {
+            "keywords": kw_list,
+            "first": min(limit, 50),
+            "skip": 0
+        }
+        resp = make_graphql_request(GRAPHQL_UGC_ARTICLES_QUERY, variables)
+        if resp and "data" in resp:
+            articles = resp.get("data", {}).get("ugcArticleDiscussionArticles", {}).get("edges", [])
+            for edge in articles:
+                tid = str((edge.get("node") or {}).get("topicId") or "")
+                if tid and tid not in seen_topic_ids:
+                    seen_topic_ids.add(tid)
+                    candidate_edges.append(edge)
 
-    topic_data = response.get("data", {}).get("categoryTopicList", {})
-    edges = topic_data.get("edges", [])
-    total_available = topic_data.get("totalNum", 0)
-    print(f"[+] Fetched {len(edges)} topics from LeetCode (Total available in category: {total_available}).")
+    if not candidate_edges:
+        print("[-] Warning: No UGC topics returned from LeetCode. Checking response or connectivity.")
+        return 0
+
+    print(f"[+] Retrieved {len(candidate_edges)} candidate UGC topics from LeetCode.")
 
     new_experiences = []
 
-    for edge in edges:
+    for edge in candidate_edges:
         node = edge.get("node") or {}
-        post = node.get("post") or {}
-        post_id = str(node.get("id") or "")
+        post_id = str(node.get("topicId") or "")
         title = (node.get("title") or "").strip()
-        content = (post.get("content") or "").strip()
-        cdate = post.get("creationDate") or 0
+        summary = (node.get("summary") or "").strip()
+        created_at = node.get("createdAt") or ""
+
+        if not post_id:
+            continue
 
         # Skip pinned / meta posts
-        if post_id == "128008" or "how to write an interview experience" in title.lower():
+        if post_id in ["128008", "8492873", "7939302"] or "how to write an interview experience" in title.lower():
             continue
 
         # Skip if already in database
-        url = f"https://leetcode.com/discuss/interview-experience/{post_id}/"
-        if post_id in existing_ids or url in existing_urls:
+        post_url = f"https://leetcode.com/discuss/post/{post_id}/"
+        legacy_url = f"https://leetcode.com/discuss/interview-experience/{post_id}/"
+        if post_id in existing_ids or post_url in existing_urls or legacy_url in existing_urls:
             continue
 
         # Verify Amazon relevance
-        combined_text = f"{title} {content}".lower()
+        title_lower = title.lower()
+        summary_lower = summary.lower()
         tags_raw = node.get("tags") or []
         tag_names = [t.get("name", "").lower() for t in tags_raw if isinstance(t, dict)]
-        is_amazon = "amazon" in combined_text or any("amazon" in t for t in tag_names)
-        if not is_amazon:
+
+        is_amazon = "amazon" in title_lower or any("amazon" in t for t in tag_names)
+        is_interview = any(w in title_lower for w in ["interview", "sde", "oa", "round", "offer", "intern", "assessment", "experience"])
+        if not (is_amazon and is_interview):
             continue
+
+        print(f"[*] Discovered new Amazon interview experience #{post_id}: {title[:55]}...")
+
+        # Fetch full modern article details via GraphQL
+        content = summary
+        author = "Anonymous"
+        views = 0
+        detail_resp = make_graphql_request(GRAPHQL_UGC_ARTICLE_DETAIL_QUERY, {"topicId": post_id})
+        if detail_resp and "data" in detail_resp:
+            art = detail_resp.get("data", {}).get("ugcArticleDiscussionArticle") or {}
+            content = art.get("content") or summary
+            author_info = art.get("author") or {}
+            author = author_info.get("userName") or author_info.get("realName") or "Anonymous"
+            views = art.get("hitCount") or 0
 
         # Skip non-experience brief posts (under 75 characters)
         if len(content) < 75 and "interview" not in title.lower():
             continue
 
         # Extract details
-        post_date = datetime.fromtimestamp(cdate).strftime("%Y-%m-%d") if cdate > 0 else datetime.now().strftime("%Y-%m-%d")
+        post_date = created_at[:10] if created_at else datetime.now().strftime("%Y-%m-%d")
         role = extract_role(title, content)
         location = extract_location(title, content)
         outcome = extract_outcome(title, content)
         interview_date = extract_interview_date(title, content, post_date)
         rounds, found_questions = extract_rounds_and_questions(content, title)
         tips = extract_tips(content)
-        summary = generate_summary(title, role, location, outcome, rounds)
+        item_summary = generate_summary(title, role, location, outcome, rounds)
 
         # Build normalized tags
         tags = [t.get("name") for t in tags_raw if isinstance(t, dict) and t.get("name")]
@@ -782,14 +817,8 @@ def run_daily_sync(limit=50, dry_run=False, test_telegram=False):
         if "Interview Experience" not in tags:
             tags.append("Interview Experience")
 
-        author = (post.get("author") or {}).get("username") or "Anonymous"
-        votes = post.get("voteCount") or 0
-        views = node.get("viewCount") or 0
-        slug = re.sub(r"[^a-zA-Z0-9]+", "-", title.lower()).strip("-")
-        post_url = f"https://leetcode.com/discuss/interview-experience/{post_id}/{slug}" if slug else url
-
         record = {
-            "id": post_id,
+            "id": int(post_id),
             "title": title,
             "role": role,
             "location": location,
@@ -798,18 +827,20 @@ def run_daily_sync(limit=50, dry_run=False, test_telegram=False):
             "interview_date": interview_date,
             "url": post_url,
             "author": author,
-            "votes": int(votes),
+            "votes": 0,
             "views": int(views),
             "tags": tags,
             "rounds": rounds,
-            "summary": summary,
+            "summary": item_summary,
             "tips": tips,
+            "leadership_principles": [lp for lp in AMAZON_LPS if lp.lower() in content.lower()],
             "full_text": content
         }
 
         new_experiences.append(record)
         existing_ids.add(post_id)
         existing_urls.add(post_url)
+        time.sleep(0.4)  # Rate limiting precaution
 
     if not new_experiences:
         print("[+] Daily sync check completed. No new Amazon interview experiences found.")

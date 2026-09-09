@@ -1,5 +1,191 @@
 [
   {
+    "id": 8512004,
+    "title": "Amazon SDE2 Interview Experience | AUG 26 | BLR | 3.3 YOE",
+    "role": "SDE-2",
+    "location": "India",
+    "outcome": "Offer",
+    "post_date": "2026-09-09",
+    "interview_date": "August 2026",
+    "url": "https://leetcode.com/discuss/post/8512004/",
+    "author": "Anonymous User",
+    "votes": 0,
+    "views": 338,
+    "tags": [
+      "Amazon",
+      "Online Assessment",
+      "Interview",
+      "SDE-2",
+      "SDE2",
+      "Resume, Interview, India, SDE2",
+      "Interview Experience"
+    ],
+    "rounds": [
+      {
+        "round_name": "Round 1: Online Assessment / Phone Screen",
+        "questions": [
+          {
+            "name": "Trapping Rain Water",
+            "leetcode_equivalent": "LeetCode 42",
+            "difficulty": "Hard",
+            "category": "Two Pointers",
+            "description": "Target problem identified in candidate interview loop: Trapping Rain Water",
+            "code_snippet": ""
+          }
+        ],
+        "details": "Sharing my Amazon SDE2 interview experience since I found similar interview experiences extremely useful while preparing."
+      },
+      {
+        "round_name": "Round 2: Technical Assessment",
+        "questions": [
+          {
+            "name": "Capacity to Ship Packages Within D Days",
+            "leetcode_equivalent": "LeetCode 1011",
+            "difficulty": "Medium",
+            "category": "Binary Search",
+            "description": "Target problem identified in candidate interview loop: Capacity to Ship Packages Within D Days",
+            "code_snippet": ""
+          }
+        ],
+        "details": "**Experience:** 3.3 years\n**Current role:** SDE2 (for ~1.5 years)\n**Role:** SDE2\n**Location:** Bangalore"
+      },
+      {
+        "round_name": "Round 3: Technical Assessment",
+        "questions": [
+          {
+            "name": "Container With Most Water",
+            "leetcode_equivalent": "LeetCode 11",
+            "difficulty": "Medium",
+            "category": "Two Pointers",
+            "description": "Target problem identified in candidate interview loop: Container With Most Water",
+            "code_snippet": ""
+          }
+        ],
+        "details": "1. Online Assessment\n2. Phone Screen\n3. Loop Round 1 — HLD + LPs\n4. Loop Round 2 — DSA + LPs\n5. Loop Round 3 — LLD/HM + LPs\n6. Bar Raiser — DSA + LPs"
+      },
+      {
+        "round_name": "Round 4: Technical Assessment",
+        "questions": [
+          {
+            "name": "Technical Problem Solving & LP Discussion",
+            "leetcode_equivalent": "",
+            "difficulty": "Medium",
+            "category": "Data Structures / LP",
+            "description": "Questions discussed in Round 4: Technical Assessment",
+            "code_snippet": ""
+          }
+        ],
+        "details": "Unfortunately, there was some confusion around my HLD/LLD round, which I’ll explain below."
+      }
+    ],
+    "summary": "Amazon interview experience for SDE-2 at India. The candidate went through 4 primary evaluation stages (Round 1: Online Assessment / Phone Screen, Round 2: Technical Assessment, Round 3: Technical Assessment) focusing on Data Structures, System Design, and Amazon Leadership Principles. Final outcome: Offer.",
+    "tips": [
+      "Focus heavily on Amazon LP: 'Customer Obsession'. Prepare 2 distinct STAR stories demonstrating this principle.",
+      "Focus heavily on Amazon LP: 'Ownership'. Prepare 2 distinct STAR stories demonstrating this principle.",
+      "Focus heavily on Amazon LP: 'Bias for Action'. Prepare 2 distinct STAR stories demonstrating this principle.",
+      "Focus heavily on Amazon LP: 'Deliver Results'. Prepare 2 distinct STAR stories demonstrating this principle.",
+      "Focus heavily on Amazon LP: 'Dive Deep'. Prepare 2 distinct STAR stories demonstrating this principle."
+    ],
+    "leadership_principles": [
+      "Customer Obsession",
+      "Ownership",
+      "Bias for Action",
+      "Deliver Results",
+      "Dive Deep",
+      "Earn Trust"
+    ],
+    "full_text": "Sharing my Amazon SDE2 interview experience since I found similar interview experiences extremely useful while preparing.\n\n**Experience:** 3.3 years\n**Current role:** SDE2 (for ~1.5 years)\n**Role:** SDE2\n**Location:** Bangalore\n\n## Overall Process\n\nThe process had:\n\n1. Online Assessment\n2. Phone Screen\n3. Loop Round 1 — HLD + LPs\n4. Loop Round 2 — DSA + LPs\n5. Loop Round 3 — LLD/HM + LPs\n6. Bar Raiser — DSA + LPs\n\nUnfortunately, there was some confusion around my HLD/LLD round, which I’ll explain below.\n\n---\n\n# 1. Online Assessment — June 11\n\nThe OA had two parts:\n\n### DSA\n\nOne DSA problem based on **Binary Search** was asked.\n\nIt wasn't particularly difficult, but required identifying the right binary-search-on-answer type of approach.\n\n### Python/Django Debugging\n\nThe second part was a Python-Django project.\n\nI was given an existing Django project and had to identify and fix bugs.\n\nAn AI coding assistant was also provided during the assessment.\n\nHowever, I didn't find the AI assistant particularly useful. It was specifically designed not to directly reveal the actual bug or provide the exact fix, so most of the debugging still had to be done manually.\n\nI completed the assessment and waited for the result.\n\n---\n\n# 2. Phone Screen — August 17\n\nI received a call around **August 15** saying that I had cleared the OA, and the phone screen was scheduled for August 17.\n\nThe interview was around 60 minutes.\n\nI was asked **2 DSA questions**.\n\n### Problem 1\n\n[Count Stepping Numbers in Range](https://leetcode.com/problems/count-stepping-numbers-in-range/description/)\n\nSolved it using BFS. Interviewer was convinced with the approach. He also asked a follow up as well.\n\n### Problem 2\n\nA standard binary-search problem based on:\n\n[Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/)\n\nI was able to solve both problems within the first ~45 minutes.\n\nThe remaining ~15 minutes were focused on Amazon Leadership Principles.\n\n**LP asked:** Bias for Action\n\nThe round went well.\n\nTwo days later, I received the call that I had cleared the phone screen and would have four more loop rounds.\n\n---\n\n# 3. Loop Round 1 — HLD/LLD Confusion — August 21\n\nThis was probably the most unusual part of my interview experience.\n\nHR had scheduled this round as an **LLD + DSA** round.\n\nHowever, when the interview started, the interviewer began asking me a **System Design/HLD** question.\n\nThe question was:\n\n> **Design an Inventory Management System for Amazon**\n\nInitially, I assumed we were doing LLD, so I started approaching the problem accordingly.\n\nAfter some time, I realized that the interviewer was actually expecting HLD.\n\nAt that point, I wasn't mentally prepared for an HLD discussion in that round, and I struggled to answer some of the questions properly.\n\nThe interviewer went quite deep into concurrency-related scenarios, for example:\n\n> There is only one unit of a product left in inventory and two users place an order simultaneously. How would you prevent both orders from succeeding?\n\nWe discussed things around:\n\n* Race conditions\n* Concurrency\n* Inventory consistency\n* Concurrent updates\n* Preventing overselling\n* Locking/transaction approaches\n\nThe feedback from this round was **neutral**.\n\nLater, HR told me that she had accidentally communicated the round to the interviewer as a **System Design round** instead of LLD.\n\nI requested another opportunity to take the intended LLD round, but HR declined to schedule another round.\n\n**LP asked:** Earn Trust\n\nThis was definitely the round I felt I could have performed much better in if I had known beforehand that it was going to be HLD.\n\n---\n\n# 4. Loop Round 2 — DSA — August 21\n\nThe next round was scheduled for 1 hour, but ended up taking around **1 hour 40 minutes**.\n\nI was asked three DSA problems.\n\n### Problem 1\n\n[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)\n\nSolved using the standard two-pointer approach.\n\n### Problem 2 — Follow-up\n\n[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)\n\nThis was a follow-up to the previous problem.\n\nWe discussed the intuition and approach in detail.\n\n### Problem 3\n\n[Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/)\n\nThis was a graph/BFS-based minimum-weight problem.\n\nI was able to solve all three problems.\n\nThis round went very well. There was also a good discussion around my projects, which helped during the Leadership Principles portion.\n\n**LPs asked:**\n\n* Bias for Action\n* Dive Deep\n\nThe feedback from this round was **very positive**.\n\n---\n\n# 5. Loop Round 3 — HM + LLD - August 26\n\nThe next round was scheduled as the **Hiring Manager round**.\n\nSince the HLD round had already happened, HR scheduled this one as LLD.\n\nThe interviewer was a **very senior manager**.\n\nThe first ~15 minutes were focused on Leadership Principles.\n\n**LP:** Deliver Results\n\nWe discussed several examples from my previous projects and experience.\n\nThen came the design question:\n\n> **Design a Rate Limiter**\n\nI was quite well prepared for this topic, so the discussion went very well.\n\nWe discussed multiple approaches/algorithms for rate limiting, including:\n\n* Fixed Window\n* Sliding Window\n* Token Bucket\n* Distributed rate limiting\n* Redis\n* Locks/concurrency\n* Handling rate limiting across multiple application instances\n* Trade-offs between different approaches\n\nThe interviewer also asked follow-up questions around distributed systems and consistency.\n\nOverall, I felt this was one of my strongest rounds.\n\nThe feedback from the HM was **positive**.\n\n---\n\n# 6. Bar Raiser - August 31\n\nThe final round was the Bar Raiser round.\n\nThe interviewer was a senior engineer.\n\nThe DSA problem was a fairly difficult **Knapsack-style problem**.\n\nI initially approached it using a **Greedy** strategy.\n\nThe interviewer challenged the approach and gave me some hints.\n\nAfter discussing it further, we eventually concluded that the problem required a **Knapsack/DP-based approach**.\n\nUnfortunately, figuring this out consumed a lot of my interview time.\n\nI wasn't able to complete the entire code within the available time.\n\nThe final ~15 minutes were focused on Leadership Principles:\n\n* Customer Obsession\n* Ownership\n\nI felt that I had messed up this round, especially because I couldn't complete the coding portion.\n\nThe feedback was **negative**.\n\n---\n\n# Final Result\n\nA few days later, HR called me with the result.\n\nThe feedback was essentially:\n\n* Phone Screen — Positive\n* DSA Loop — Very Positive\n* HM/LLD — Positive\n* HLD — Neutral\n* Bar Raiser — Negative\n\nHR told me that because of the **Bar Raiser and HLD rounds**, the interviewers were not convinced that I was ready for the **SDE2 level**.\n\nAmazon therefore offered me an **SDE1 position instead of SDE2**.\n\nI asked if I could take another HLD round because the original round had been scheduled incorrectly, but HR declined. The HM advocated for me and has asked another HM to hire me for SDE 1.\n\n---\n\n# Should I Take the SDE1 Offer?\n\nThis is where I'm currently unsure.\n\nI have **3.3 years of experience**, and I've already been working as an **SDE2 for around 1.5 years**.\n\nAmazon is offering me SDE1 because they weren't convinced about SDE2 based primarily on the HLD and Bar Raiser rounds.\n\nI'm currently deciding between:\n\n**Option 1:** Accept the SDE1 offer and join Amazon.\n\n**Option 2:** Decline the offer and continue interviewing for SDE2 roles elsewhere.\n\n\nI'd really appreciate advice from people who have been in a similar situation, especially current/former Amazon engineers.\n\n### Questions I'd love opinions on:\n\n1. Is taking an SDE1 role with 3.3 YOE and ~1.5 years of SDE2 experience a bad career move?\n2. How difficult is it to get promoted from SDE1 → SDE2 at Amazon?\n3. Would joining Amazon at SDE1 still make sense for the brand, compensation, learning, and future opportunities?\n4. Would you decline and continue looking for SDE2 roles?\n5. Is there any realistic way to negotiate the level after receiving this kind of result?\n\nWould really appreciate honest opinions, especially from people who have experienced Amazon's leveling process firsthand.\n"
+  },
+  {
+    "id": 8511161,
+    "title": "Amazon SDE-1 FTC Offer Concerns and Questions",
+    "role": "SDE-1",
+    "location": "USA",
+    "outcome": "Pending",
+    "post_date": "2026-09-09",
+    "interview_date": "September 2026",
+    "url": "https://leetcode.com/discuss/post/8511161/",
+    "author": "Anonymous User",
+    "votes": 0,
+    "views": 553,
+    "tags": [
+      "Amazon",
+      "Career",
+      "Compensation",
+      "Interview",
+      "SDE-1",
+      "Interview Experience"
+    ],
+    "rounds": [
+      {
+        "round_name": "Round 1: Online Assessment / Phone Screen",
+        "questions": [
+          {
+            "name": "Amazon Core Problem Solving & DSA Assessment",
+            "leetcode_equivalent": "LeetCode Pattern",
+            "difficulty": "Medium",
+            "category": "Algorithms & Problem Solving",
+            "description": "Core data structure & algorithm problem covering candidate competencies.",
+            "code_snippet": ""
+          }
+        ],
+        "details": "I recently completed the interview loop for an **Amazon SDE-1 FTC (Fixed-Term Contract) role** and am expecting an offer.\r\n\r\nI’m currently working at a **Service-based company** and have around **4.5 years of experience**, with a current CTC of **₹7.5 LPA**.\r\n\r\nI’m a bit conflicted about whether I should accept the Amazon offer if I receive it, and I’d appreciate some insights from people who have experience with Amazon FTC roles.\r\n\r\nMy questions are:\r\n\r\n1. **Are FTC employees treated the same as permanent/FTE employees, except the Compensation?**\r\n2. **What is the quality of work assigned to FTC employees?** Is it comparable to the work given to FTEs, or are FTCs generally assigned less desirable or lower-priority tasks that FTEs are not willing to take up?\r\n3. **Is there a possibility of being converted to an FTE after one year?** If so, what is the approximate conversion rate?\r\n4. **If Amazon announces layoffs or there is a headcount reduction in the team, what happens to FTC employees?** Are FTCs typically let go before FTEs, and can an FTC contract be terminated before its agreed end date in such situations?\r\n\r\n\r\nAny insights from current or former Amazon FTC employees would b"
+      }
+    ],
+    "summary": "Amazon interview experience for SDE-1 at USA. The candidate went through 1 primary evaluation stages (Round 1: Online Assessment / Phone Screen) focusing on Data Structures, System Design, and Amazon Leadership Principles. Final outcome: Pending.",
+    "tips": [
+      "Structure all behavioral answers using the STAR format (Situation, Task, Action, Result) with quantified business impact.",
+      "Clarify ambiguous requirements upfront and discuss multiple trade-offs before writing a single line of code.",
+      "Amazon Bar Raiser evaluates team culture fit and ownership; never blame colleagues or past management."
+    ],
+    "leadership_principles": [],
+    "full_text": "I recently completed the interview loop for an **Amazon SDE-1 FTC (Fixed-Term Contract) role** and am expecting an offer.\r\n\r\nI’m currently working at a **Service-based company** and have around **4.5 years of experience**, with a current CTC of **₹7.5 LPA**.\r\n\r\nI’m a bit conflicted about whether I should accept the Amazon offer if I receive it, and I’d appreciate some insights from people who have experience with Amazon FTC roles.\r\n\r\nMy questions are:\r\n\r\n1. **Are FTC employees treated the same as permanent/FTE employees, except the Compensation?**\r\n2. **What is the quality of work assigned to FTC employees?** Is it comparable to the work given to FTEs, or are FTCs generally assigned less desirable or lower-priority tasks that FTEs are not willing to take up?\r\n3. **Is there a possibility of being converted to an FTE after one year?** If so, what is the approximate conversion rate?\r\n4. **If Amazon announces layoffs or there is a headcount reduction in the team, what happens to FTC employees?** Are FTCs typically let go before FTEs, and can an FTC contract be terminated before its agreed end date in such situations?\r\n\r\n\r\nAny insights from current or former Amazon FTC employees would be greatly appreciated.\r\n"
+  },
+  {
+    "id": 8510682,
+    "title": "Amazon SDE INTERN OA AUTA",
+    "role": "SDE-1",
+    "location": "USA",
+    "outcome": "Pending",
+    "post_date": "2026-09-08",
+    "interview_date": "September 2026",
+    "url": "https://leetcode.com/discuss/post/8510682/",
+    "author": "pratham-goyal12",
+    "votes": 0,
+    "views": 107,
+    "tags": [
+      "Amazon",
+      "Online Assessment",
+      "Interview",
+      "SDE-1",
+      "Interview Experience"
+    ],
+    "rounds": [
+      {
+        "round_name": "Round 1: Online Assessment / Phone Screen",
+        "questions": [
+          {
+            "name": "Amazon Core Problem Solving & DSA Assessment",
+            "leetcode_equivalent": "LeetCode Pattern",
+            "difficulty": "Medium",
+            "category": "Algorithms & Problem Solving",
+            "description": "Core data structure & algorithm problem covering candidate competencies.",
+            "code_snippet": ""
+          }
+        ],
+        "details": "i've solved dsa questions all tc passed and also solved dev part(6/6)\r\nbut didn't get a response from thier side it's been more than a week"
+      }
+    ],
+    "summary": "Amazon interview experience for SDE-1 at USA. The candidate went through 1 primary evaluation stages (Round 1: Online Assessment / Phone Screen) focusing on Data Structures, System Design, and Amazon Leadership Principles. Final outcome: Pending.",
+    "tips": [
+      "Structure all behavioral answers using the STAR format (Situation, Task, Action, Result) with quantified business impact.",
+      "Clarify ambiguous requirements upfront and discuss multiple trade-offs before writing a single line of code.",
+      "Amazon Bar Raiser evaluates team culture fit and ownership; never blame colleagues or past management."
+    ],
+    "leadership_principles": [],
+    "full_text": "i've solved dsa questions all tc passed and also solved dev part(6/6)\r\nbut didn't get a response from thier side it's been more than a week"
+  },
+  {
     "id": "8510428",
     "title": "Amazon and Google OA 2026 Question Bank: 15 High-Frequency Archetypes, Traps and Patterns",
     "role": "Software Development Engineer",
