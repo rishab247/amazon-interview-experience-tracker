@@ -1,5 +1,47 @@
 [
   {
+    "id": 8513311,
+    "title": "Amazon Systems Development Engineer Intern – 2027",
+    "role": "SDE-1",
+    "location": "India",
+    "outcome": "Pending",
+    "post_date": "2026-09-10",
+    "interview_date": "September 2026",
+    "url": "https://leetcode.com/discuss/post/8513311/",
+    "author": "vighneshtakke4",
+    "votes": 0,
+    "views": 1,
+    "tags": [
+      "Amazon",
+      "SDE-1",
+      "Interview Experience"
+    ],
+    "rounds": [
+      {
+        "round_name": "Round 1: Online Assessment / Phone Screen",
+        "questions": [
+          {
+            "name": "Amazon Core Problem Solving & DSA Assessment",
+            "leetcode_equivalent": "LeetCode Pattern",
+            "difficulty": "Medium",
+            "category": "Algorithms & Problem Solving",
+            "description": "Core data structure & algorithm problem covering candidate competencies.",
+            "code_snippet": ""
+          }
+        ],
+        "details": "Sharing a **Systems Development Engineer Internship** opportunity at Amazon.\r\n\r\n**Company:** Amazon\r\n**Role:** Systems Development Engineer Intern\r\n**Job ID:** 10498161\r\n**Location:** Multiple Amazon locations across India\r\n**Internship Year:** 2027\r\n**Work Type:** Full-time\r\n\r\n### Eligibility\r\n\r\nOpen to students currently pursuing a **Bachelor's degree**, particularly the **2027 & 2028 graduating batches**.\r\n\r\n### Preparation\r\n\r\nFocus on:\r\n\r\n* DSA\r\n* System Design\r\n* DBMS\r\n* Operating Systems\r\n* Computer Networks\r\n* OOP\r\n* Amazon Leadership Principles\r\n\r\nBe prepared to discuss your **projects, certifications and hackathon experience**.\r\n\r\nStudents interested in the role can search **Amazon Job ID 10498161** on the official Amazon Jobs website and check the latest eligibility and application details."
+      }
+    ],
+    "summary": "Amazon interview experience for SDE-1 at India. The candidate went through 1 primary evaluation stages (Round 1: Online Assessment / Phone Screen) focusing on Data Structures, System Design, and Amazon Leadership Principles. Final outcome: Pending.",
+    "tips": [
+      "Structure all behavioral answers using the STAR format (Situation, Task, Action, Result) with quantified business impact.",
+      "Clarify ambiguous requirements upfront and discuss multiple trade-offs before writing a single line of code.",
+      "Amazon Bar Raiser evaluates team culture fit and ownership; never blame colleagues or past management."
+    ],
+    "leadership_principles": [],
+    "full_text": "Sharing a **Systems Development Engineer Internship** opportunity at Amazon.\r\n\r\n**Company:** Amazon\r\n**Role:** Systems Development Engineer Intern\r\n**Job ID:** 10498161\r\n**Location:** Multiple Amazon locations across India\r\n**Internship Year:** 2027\r\n**Work Type:** Full-time\r\n\r\n### Eligibility\r\n\r\nOpen to students currently pursuing a **Bachelor's degree**, particularly the **2027 & 2028 graduating batches**.\r\n\r\n### Preparation\r\n\r\nFocus on:\r\n\r\n* DSA\r\n* System Design\r\n* DBMS\r\n* Operating Systems\r\n* Computer Networks\r\n* OOP\r\n* Amazon Leadership Principles\r\n\r\nBe prepared to discuss your **projects, certifications and hackathon experience**.\r\n\r\nStudents interested in the role can search **Amazon Job ID 10498161** on the official Amazon Jobs website and check the latest eligibility and application details.\r\n"
+  },
+  {
     "id": 8512004,
     "title": "Amazon SDE2 Interview Experience | AUG 26 | BLR | 3.3 YOE",
     "role": "SDE-2",
