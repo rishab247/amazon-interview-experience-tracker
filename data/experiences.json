@@ -1,5 +1,110 @@
 [
   {
+    "id": 8517486,
+    "title": "Amazon SDE Interview Process – Bengaluru | Phone Interview Round?",
+    "role": "SDE-1",
+    "location": "India",
+    "outcome": "Pending",
+    "post_date": "2026-09-12",
+    "interview_date": "September 2026",
+    "url": "https://leetcode.com/discuss/post/8517486/",
+    "author": "Anonymous User",
+    "votes": 0,
+    "views": 257,
+    "tags": [
+      "Amazon",
+      "SDE",
+      "Online Assessment",
+      "Interview",
+      "SDE-1",
+      "Interview Experience"
+    ],
+    "rounds": [
+      {
+        "round_name": "OA → Phone Interview (Coding + LP) → 3 Technical Rounds → 1 Non-Technical Round",
+        "questions": [
+          {
+            "name": "Amazon Core Problem Solving & DSA Assessment",
+            "leetcode_equivalent": "LeetCode Pattern",
+            "difficulty": "Medium",
+            "category": "Algorithms & Problem Solving",
+            "description": "Core data structure & algorithm problem covering candidate competencies.",
+            "code_snippet": ""
+          }
+        ],
+        "details": "I was expecting the more commonly discussed process of:"
+      },
+      {
+        "round_name": "OA → Technical Round 1 → Technical Round 2 → HR",
+        "questions": [
+          {
+            "name": "Technical Problem Solving & LP Discussion",
+            "leetcode_equivalent": "",
+            "difficulty": "Medium",
+            "category": "Data Structures / LP",
+            "description": "Questions discussed in OA → Technical Round 1 → Technical Round 2 → HR",
+            "code_snippet": ""
+          }
+        ],
+        "details": "I haven't seen much information about this particular process, especially the **Phone Interview followed by 3 technical + 1 non-technical round**.\n\nHas anyone recently interviewed with Amazon for a **System Development Engineer / SDE role in Bengaluru** and gone through this process?"
+      }
+    ],
+    "summary": "Amazon interview experience for SDE-1 at India. The candidate went through 2 primary evaluation stages (OA → Phone Interview (Coding + LP) → 3 Technical Rounds → 1 Non-Technical Round, OA → Technical Round 1 → Technical Round 2 → HR) focusing on Data Structures, System Design, and Amazon Leadership Principles. Final outcome: Pending.",
+    "tips": [
+      "Structure all behavioral answers using the STAR format (Situation, Task, Action, Result) with quantified business impact.",
+      "Clarify ambiguous requirements upfront and discuss multiple trade-offs before writing a single line of code.",
+      "Amazon Bar Raiser evaluates team culture fit and ownership; never blame colleagues or past management."
+    ],
+    "leadership_principles": [],
+    "full_text": "I have **2+ years of experience** and recently completed my **Amazon Online Assessment (OA) on September 7** for a **System Development Engineer** role in Bengaluru.\r\n\r\nOn **September 9**, I received a call from the recruiter. Initially, I assumed the next round would be a discussion about my experience, notice period, salary expectations, etc.\r\n\r\nHowever, when I called the recruiter back to clarify, he mentioned that the next round is a **Phone Interview**, but it will actually be conducted over a **Zoom call**. He said the round will include **coding questions and Leadership Principles (LP) questions**.\r\n\r\nHe also mentioned that after this round, there will be:\r\n\r\n* **3 Technical rounds**\r\n* **1 Non-Technical round**\r\n\r\nSo, the overall process seems to be:\r\n\r\n**OA → Phone Interview (Coding + LP) → 3 Technical Rounds → 1 Non-Technical Round**\r\n\r\nI was expecting the more commonly discussed process of:\r\n\r\n**OA → Technical Round 1 → Technical Round 2 → HR**\r\n\r\nI haven't seen much information about this particular process, especially the **Phone Interview followed by 3 technical + 1 non-technical round**.\r\n\r\nHas anyone recently interviewed with Amazon for a **System Development Engineer / SDE role in Bengaluru** and gone through this process?\r\n\r\n\r\n"
+  },
+  {
+    "id": 8517180,
+    "title": "**Amazon SDE-1 MRS — Anyone else still waiting? 🚨**",
+    "role": "SDE-1",
+    "location": "USA",
+    "outcome": "Pending",
+    "post_date": "2026-09-12",
+    "interview_date": "September 2026",
+    "url": "https://leetcode.com/discuss/post/8517180/",
+    "author": "Anonymous User",
+    "votes": 0,
+    "views": 90,
+    "tags": [
+      "Amazon",
+      "Career",
+      "Interview",
+      "amazon sde1",
+      "SDE-1",
+      "Interview Experience"
+    ],
+    "rounds": [
+      {
+        "round_name": "Round 1: Online Assessment / Phone Screen",
+        "questions": [
+          {
+            "name": "Amazon Core Problem Solving & DSA Assessment",
+            "leetcode_equivalent": "LeetCode Pattern",
+            "difficulty": "Medium",
+            "category": "Algorithms & Problem Solving",
+            "description": "Core data structure & algorithm problem covering candidate competencies.",
+            "code_snippet": ""
+          }
+        ],
+        "details": "Hey everyone! This is a follow-up to my [previous post](https://leetcode.com/discuss/post/8399394/amazon-sde-1-anyone-still-waiting-for-an-mrsx/) about my **Amazon SDE-1 MRS**.\r\n\r\nI was given a **tentative interview date of July 16**, but I still haven’t received any interview invite or further update from Amazon.\r\n\r\nI’ve been trying to follow up, but unfortunately, **I haven’t received any response yet.**\r\n\r\n\r\n---\r\n\r\n\r\nHas anyone faced a similar situation before?\r\n\r\n🔹 Did you eventually receive the interview invite?\r\n🔹 How long did you have to wait?\r\n🔹 Did you follow up through any specific channel that actually worked?\r\n🔹 Any advice on what I should do next?\r\n\r\n\r\n---\r\n\r\n\r\n\r\nWould really appreciate hearing from anyone who has been through this and **eventually got the interview.** 🙌\r\n\r\n**Anyone else in the same boat? Let’s connect! 🚀**\r\n\r\n\r\n\r\n---\r\n\r\n                                                    Tejas \r\n---"
+      }
+    ],
+    "summary": "Amazon interview experience for SDE-1 at USA. The candidate went through 1 primary evaluation stages (Round 1: Online Assessment / Phone Screen) focusing on Data Structures, System Design, and Amazon Leadership Principles. Final outcome: Pending.",
+    "tips": [
+      "on what I should do next?",
+      "Would really appreciate hearing from anyone who has been through this and **eventually got the interview.** 🙌",
+      "Anyone else in the same boat? Let’s connect! 🚀",
+      "Structure all behavioral answers using the STAR format (Situation, Task, Action, Result) with quantified business impact."
+    ],
+    "leadership_principles": [],
+    "full_text": "Hey everyone! This is a follow-up to my [previous post](https://leetcode.com/discuss/post/8399394/amazon-sde-1-anyone-still-waiting-for-an-mrsx/) about my **Amazon SDE-1 MRS**.\r\n\r\nI was given a **tentative interview date of July 16**, but I still haven’t received any interview invite or further update from Amazon.\r\n\r\nI’ve been trying to follow up, but unfortunately, **I haven’t received any response yet.**\r\n\r\n\r\n---\r\n\r\n\r\nHas anyone faced a similar situation before?\r\n\r\n🔹 Did you eventually receive the interview invite?\r\n🔹 How long did you have to wait?\r\n🔹 Did you follow up through any specific channel that actually worked?\r\n🔹 Any advice on what I should do next?\r\n\r\n\r\n---\r\n\r\n\r\n\r\nWould really appreciate hearing from anyone who has been through this and **eventually got the interview.** 🙌\r\n\r\n**Anyone else in the same boat? Let’s connect! 🚀**\r\n\r\n\r\n\r\n---\r\n\r\n                                                    Tejas \r\n---\r\n\r\n\r\n\r\n\r\n"
+  },
+  {
     "id": 8516494,
     "title": "Amazon SDE Internship 2027 OA Experience",
     "role": "SDE-1",
