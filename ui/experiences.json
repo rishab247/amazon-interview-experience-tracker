@@ -1,5 +1,181 @@
 [
   {
+    "id": 8520561,
+    "title": "Amazon SDE Intern Interview Chances",
+    "role": "SDE-1",
+    "location": "USA",
+    "outcome": "Pending",
+    "post_date": "2026-09-14",
+    "interview_date": "September 2026",
+    "url": "https://leetcode.com/discuss/post/8520561/",
+    "author": "Sparsh01777",
+    "votes": 0,
+    "views": 31,
+    "tags": [
+      "Amazon",
+      "Career",
+      "Online Assessment",
+      "Interview",
+      "SDE-1",
+      "Interview Experience"
+    ],
+    "rounds": [
+      {
+        "round_name": "Round 1: Online Assessment / Phone Screen",
+        "questions": [
+          {
+            "name": "Amazon Core Problem Solving & DSA Assessment",
+            "leetcode_equivalent": "LeetCode Pattern",
+            "difficulty": "Medium",
+            "category": "Algorithms & Problem Solving",
+            "description": "Core data structure & algorithm problem covering candidate competencies.",
+            "code_snippet": ""
+          }
+        ],
+        "details": "I completed the Amazon SDE Intern OA about two weeks ago. I passed all the test cases for the DSA problem and 5 out of 6 test cases for the MERN development problem.\r\n\r\nHowever, I haven’t received any interview invitation or further update yet.\r\n\r\nI wanted to ask:\r\n\r\n- Does anyone know what the chances are of getting an interview after this stage?\r\n- Has anyone recently received an interview invitation after completing the Amazon SDE Intern OA?\r\n- How long does Amazon typically take to get back after the OA?\r\n\r\nAny recent experiences or insights would be really helpful. Thanks!"
+      }
+    ],
+    "summary": "Amazon interview experience for SDE-1 at USA. The candidate went through 1 primary evaluation stages (Round 1: Online Assessment / Phone Screen) focusing on Data Structures, System Design, and Amazon Leadership Principles. Final outcome: Pending.",
+    "tips": [
+      "Structure all behavioral answers using the STAR format (Situation, Task, Action, Result) with quantified business impact.",
+      "Clarify ambiguous requirements upfront and discuss multiple trade-offs before writing a single line of code.",
+      "Amazon Bar Raiser evaluates team culture fit and ownership; never blame colleagues or past management."
+    ],
+    "leadership_principles": [],
+    "full_text": "I completed the Amazon SDE Intern OA about two weeks ago. I passed all the test cases for the DSA problem and 5 out of 6 test cases for the MERN development problem.\r\n\r\nHowever, I haven’t received any interview invitation or further update yet.\r\n\r\nI wanted to ask:\r\n\r\n- Does anyone know what the chances are of getting an interview after this stage?\r\n- Has anyone recently received an interview invitation after completing the Amazon SDE Intern OA?\r\n- How long does Amazon typically take to get back after the OA?\r\n\r\nAny recent experiences or insights would be really helpful. Thanks!"
+  },
+  {
+    "id": 8520348,
+    "title": "Amazon SDE 1 NewGrad SDE Interview Experience USA",
+    "role": "SDE-1",
+    "location": "Seattle, WA, USA",
+    "outcome": "Pending",
+    "post_date": "2026-09-14",
+    "interview_date": "September 2026",
+    "url": "https://leetcode.com/discuss/post/8520348/",
+    "author": "Anonymous User",
+    "votes": 0,
+    "views": 101,
+    "tags": [
+      "Amazon",
+      "Interview",
+      "SDE-1",
+      "Interview Experience"
+    ],
+    "rounds": [
+      {
+        "round_name": "Round 1 - Coding + Behavioral",
+        "questions": [
+          {
+            "name": "Merge Intervals",
+            "leetcode_equivalent": "LeetCode 56",
+            "difficulty": "Medium",
+            "category": "Intervals",
+            "description": "Target problem identified in candidate interview loop: Merge Intervals",
+            "code_snippet": ""
+          }
+        ],
+        "details": "Started with an LP question:\n\n“Tell me about a time when you had a blocker in your work and how did you resolve that blocker? What would you have done differently?”\n\nFor coding, I was asked Path Sum II. I clarified the problem, explained my approach, and coded it in around 30 minutes.\n\nWith around 15 minutes left, the interviewer gave me a follow-up, which was a hard variation of the previous problem. I needed some hints, picked them up, explained my approach, and the interviewer seemed happy."
+      },
+      {
+        "round_name": "Round 2 - LLD",
+        "questions": [
+          {
+            "name": "Technical Problem Solving & LP Discussion",
+            "leetcode_equivalent": "",
+            "difficulty": "Medium",
+            "category": "Data Structures / LP",
+            "description": "Questions discussed in Round 2 - LLD",
+            "code_snippet": ""
+          }
+        ],
+        "details": "Started with an LP question:\n\n“Tell me about a time where you took work outside of your responsibility.”\n\n**Technical**: Design a billing service for AWS for a single user where the usage and rate of all the services used are given.\n\nThis was the best round of the entire loop. I explained each of my design choices, and the interviewer came up with follow-ups which I was able to answer. Overall, it was a very good discussion."
+      },
+      {
+        "round_name": "Round 3 - Coding + Behavioral (HM Round)",
+        "questions": [
+          {
+            "name": "Technical Problem Solving & LP Discussion",
+            "leetcode_equivalent": "",
+            "difficulty": "Medium",
+            "category": "Data Structures / LP",
+            "description": "Questions discussed in Round 3 - Coding + Behavioral (HM Round)",
+            "code_snippet": ""
+          }
+        ],
+        "details": "The first 30 minutes were entirely related to Gen AI discussion.\n\nThen came the technical part. First question was First Non-Repeating Character, solved that in around 10 minutes.\n\nThe next question was a slight modification of Merge Intervals, which I solved as well."
+      },
+      {
+        "round_name": "Round 4 - Bar Raiser",
+        "questions": [
+          {
+            "name": "Technical Problem Solving & LP Discussion",
+            "leetcode_equivalent": "",
+            "difficulty": "Medium",
+            "category": "Data Structures / LP",
+            "description": "Questions discussed in Round 4 - Bar Raiser",
+            "code_snippet": ""
+          }
+        ],
+        "details": "This one was entirely behavioral. There were a lot of follow-ups for every story you speak about - “Why this?”, “Why that?”, etc.\n\nYou really need to know your stories well for this round.\n\n**Timeline**\n**Feb 10**: Applied with a referral\n\n**July 10**: Received OA\n\n**July 11**: Completed OA\n\n**July 15**: Original Job ID moved to “No longer under consideration” and a new Job ID was opened\n\n**July 20**: Received email that I passed OA\n\n**July 28**: Recruiter reached out asking for my availability between Aug 17–21\n\n**Aug 14**: Received tentative schedule and Save the Date email\n\n**Aug 18**: Received confirmation with interviewer details\n\n**Aug 20 & Aug 24**: Interviews\n\n**Aug 27**: Result — Offer"
+      }
+    ],
+    "summary": "Amazon interview experience for SDE-1 at Seattle, WA, USA. The candidate went through 4 primary evaluation stages (Round 1 - Coding + Behavioral, Round 2 - LLD, Round 3 - Coding + Behavioral (HM Round)) focusing on Data Structures, System Design, and Amazon Leadership Principles. Final outcome: Pending.",
+    "tips": [
+      "Structure all behavioral answers using the STAR format (Situation, Task, Action, Result) with quantified business impact.",
+      "Clarify ambiguous requirements upfront and discuss multiple trade-offs before writing a single line of code.",
+      "Amazon Bar Raiser evaluates team culture fit and ownership; never blame colleagues or past management."
+    ],
+    "leadership_principles": [],
+    "full_text": "Hello everyone, I have completed my Amazon SDE 1 loop and received an offer!\n\nFormat: 4 rounds — 3 in-person rounds and 1 BR round (virtual) at Seattle for AWS.\n\n**Round 1 - Coding + Behavioral**\nStarted with an LP question:\n\n“Tell me about a time when you had a blocker in your work and how did you resolve that blocker? What would you have done differently?”\n\nFor coding, I was asked Path Sum II. I clarified the problem, explained my approach, and coded it in around 30 minutes.\n\nWith around 15 minutes left, the interviewer gave me a follow-up, which was a hard variation of the previous problem. I needed some hints, picked them up, explained my approach, and the interviewer seemed happy.\n\n**Round 2 - LLD**\nStarted with an LP question:\n\n“Tell me about a time where you took work outside of your responsibility.”\n\n**Technical**: Design a billing service for AWS for a single user where the usage and rate of all the services used are given.\n\nThis was the best round of the entire loop. I explained each of my design choices, and the interviewer came up with follow-ups which I was able to answer. Overall, it was a very good discussion.\n\n**Round 3 - Coding + Behavioral (HM Round)**\nThe first 30 minutes were entirely related to Gen AI discussion.\n\nThen came the technical part. First question was First Non-Repeating Character, solved that in around 10 minutes.\n\nThe next question was a slight modification of Merge Intervals, which I solved as well.\n\n**Round 4 - Bar Raiser**\nThis one was entirely behavioral. There were a lot of follow-ups for every story you speak about - “Why this?”, “Why that?”, etc.\n\nYou really need to know your stories well for this round.\n\n**Timeline**\n**Feb 10**: Applied with a referral\n\n**July 10**: Received OA\n\n**July 11**: Completed OA\n\n**July 15**: Original Job ID moved to “No longer under consideration” and a new Job ID was opened\n\n**July 20**: Received email that I passed OA\n\n**July 28**: Recruiter reached out asking for my availability between Aug 17–21\n\n**Aug 14**: Received tentative schedule and Save the Date email\n\n**Aug 18**: Received confirmation with interviewer details\n\n**Aug 20 & Aug 24**: Interviews\n\n**Aug 27**: Result — Offer"
+  },
+  {
+    "id": 8519174,
+    "title": "Questions asked by Amazon in past 6 months- SDE2 (DSA/Design)- Part 1",
+    "role": "SDE-2",
+    "location": "USA",
+    "outcome": "Pending",
+    "post_date": "2026-09-13",
+    "interview_date": "September 2026",
+    "url": "https://leetcode.com/discuss/post/8519174/",
+    "author": "khan_arshala_",
+    "votes": 0,
+    "views": 484,
+    "tags": [
+      "Amazon",
+      "DSA",
+      "Interview",
+      "SDE-2",
+      "Interview Experience"
+    ],
+    "rounds": [
+      {
+        "round_name": "Round 1: Online Assessment / Phone Screen",
+        "questions": [
+          {
+            "name": "Trapping Rain Water",
+            "leetcode_equivalent": "LeetCode 42",
+            "difficulty": "Hard",
+            "category": "Two Pointers",
+            "description": "Target problem identified in candidate interview loop: Trapping Rain Water",
+            "code_snippet": ""
+          }
+        ],
+        "details": "Hi,\r\nI’ve compiled a list of all the questions asked by Amazon over the last five months for the SDE-2 position. I went through various interview experiences and compiled this list based on them.\r\nI thought it might be useful to others preparing for the role, so I’m sharing it here. Hope it helps!\r\n\r\nLink to Part 2- https://leetcode.com/discuss/post/8519184/questions-asked-by-amazon-in-past-6-mont-ya1z/\r\nLink to Part 3- https://leetcode.com/discuss/post/8519189/questions-asked-by-amazon-in-past-6-mont-7wjn/\r\n\r\n1.\tTopological sort and finding the cycle in the graph.\r\n2.\tLLD question was to create a publisher subscriber kind of system\r\nwhere a publisher can send events related to a particular event type and all subscribers subscribed to that event type should receive that message.\r\nSubscribers can subscribe and unsubscribe to a particular event type\r\n3.\thttps://leetcode.com/problems/reorganize-string/description/\r\n4.\thttps://leetcode.com/problems/count-stepping-numbers-in-range/description/\r\n5.\thttps://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/\r\n6.\tDesign an Inventory Management System for Amazon\r\nThe interviewer went quite deep into concurrency-relate"
+      }
+    ],
+    "summary": "Amazon interview experience for SDE-2 at USA. The candidate went through 1 primary evaluation stages (Round 1: Online Assessment / Phone Screen) focusing on Data Structures, System Design, and Amazon Leadership Principles. Final outcome: Pending.",
+    "tips": [
+      "service to mix the songs",
+      "\tFind the unoccupied seat position with the maximum distance to the occupied site . Seats[] = {'O','U','U','U','O','O'};  Answer - 2nd indexed seat",
+      "\tGiven the 2 D array with 2 colours validate if it is a valid chessborad",
+      "\tLCS (longest common subsequence",
+      "\thttps://leetcode.com/discuss/post/8434443/count-the-uni-valued-subtrees-in-a-binar-tqi2/"
+    ],
+    "leadership_principles": [],
+    "full_text": "\r\nHi,\r\nI’ve compiled a list of all the questions asked by Amazon over the last five months for the SDE-2 position. I went through various interview experiences and compiled this list based on them.\r\nI thought it might be useful to others preparing for the role, so I’m sharing it here. Hope it helps!\r\n\r\nLink to Part 2- https://leetcode.com/discuss/post/8519184/questions-asked-by-amazon-in-past-6-mont-ya1z/\r\nLink to Part 3- https://leetcode.com/discuss/post/8519189/questions-asked-by-amazon-in-past-6-mont-7wjn/\r\n\r\n1.\tTopological sort and finding the cycle in the graph.\r\n2.\tLLD question was to create a publisher subscriber kind of system\r\nwhere a publisher can send events related to a particular event type and all subscribers subscribed to that event type should receive that message.\r\nSubscribers can subscribe and unsubscribe to a particular event type\r\n3.\thttps://leetcode.com/problems/reorganize-string/description/\r\n4.\thttps://leetcode.com/problems/count-stepping-numbers-in-range/description/\r\n5.\thttps://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/\r\n6.\tDesign an Inventory Management System for Amazon\r\nThe interviewer went quite deep into concurrency-related scenarios, for example:\r\nThere is only one unit of a product left in inventory and two users place an order simultaneously. How would you prevent both orders from succeeding?\r\nWe discussed things around:\r\n•\tRace conditions\r\n•Concurrency\r\n•\tInventory consistency\r\n•\tConcurrent updates\r\n•\tPreventing overselling\r\n•\tLocking/transaction approaches\r\n7.\thttps://leetcode.com/problems/container-with-most-water/description/\r\n8.\thttps://leetcode.com/problems/trapping-rain-water/description/\r\n9.\thttps://leetcode.com/problems/cheapest-flights-within-k-stops/description/\r\n10.\tDesign a Rate Limiter\r\nWe discussed multiple approaches/algorithms for rate limiting, including:\r\n•\tFixed Window\r\n•\tSliding Window\r\n•\tToken Bucket\r\n•\tDistributed rate limiting\r\n•\tRedis\r\n•\tLocks/concurrency\r\n•\tHandling rate limiting across multiple application instances\r\n•\tTrade-offs between different approaches\r\nThe interviewer also asked follow-up questions around distributed systems and consistency.\r\n11.\tCourse Schedule / Course Scheduler\r\n12.\tClosest K Elements in a Sorted Array\r\n13.\tImagine you have a train route: G → U → H → K → I. Each segment travelled costs 1. So travelling from G to I would cost 4. The input was basically:calculateFare(start, stop)\r\n14.\the problem was somewhat similar to an Amazon Locker, but basically the reverse. Instead of the Amazon delivery person picking up a return package from the customer, the customer books a slot at the nearest drop store and physically goes there to drop the package. I took some time initially to clarify the requirements and then started writing the code. In the middle of it, the interviewer suddenly went in another direction: \"How will you find the nearest drop store from the customer's location?\" I said I'd use the concept of geosharding. That's basically the only thing I could come up with because, well... I've never done HLD before. 😅 He wanted to go deeper into it and even gave me a hint: \"Think about how Uber does this.\" Unfortunately, I didn't know how Uber does it.\r\n15.\thttps://leetcode.com/problems/find-the-safest-path-in-a-grid/\r\n16.\tShe gave me a custom problem, which I believe was related to something the team was actually working on. The problem was somewhat similar to syncing configurations across different devices. She asked several design-related questions, and I was able to answer all of them.\r\n17.\tFind distance between any two nodes in a tree. Parent pointers not given. Only have root, source, and target in input.\r\n18.\tDesigning a stack that supports push, pop, get middle, get top in O(1) time.\r\n19.\thttps://leetcode.com/problems/basic-calculator/description/\r\n20.\tLLD question was to create a publisher subscriber kind of system\r\nwhere a publisher can send events related to a particular event type and all subscribers subscribed to that event type should receive that message.\r\nSubscribers can subscribe and unsubscribe to a particular event type\r\n21.\thttps://leetcode.com/problems/reorganize-string/description/\r\n22.\tRotten Oranges\r\n23.\tSearch in Rotated Sorted Array\r\nGiven multiple currency conversion rates, determine the conversion rate from currency A to B.\r\nExample:\r\n•\tC = 10B\r\n•\tD = 9B\r\n•\tB = 110Z\r\n•\tA = 2Z\r\nFind the conversion rate from A to B.\r\nFollow-up\r\nNow suppose there are Q such conversion queries.\r\nI proposed using Disjoint Set Union (Union Find) with weighted relationships to answer repeated queries efficiently, and discussed the associated trade-offs.\r\n24.\tDecode String\r\n25.\tHow do you use LLMs during development?\r\n26.\tHow do you verify whether an AI-generated solution is correct?\r\n27.\tWhen do you trust an LLM and when do you not?\r\n28.\tTwo knights are placed on an infinite chessboard. Their starting coordinates are given, and both move using standard knight moves. They move alternately. Find the minimum total number of moves required for both knights to converge at the same position.\r\nGiven a binary string:\r\n•\tEvery 0 becomes 00\r\n•\tEvery 1 becomes 10\r\nAfter performing this transformation k times, determine the value at the i-th index of the final string.\r\n29.\tMinimum Window Substring\r\n30.\t Design Artifact Repository(like JFrog, adding an artifact and fetching an artifact) - Interviewer was interested in each part of my HLD, and then probed on scalability, metrics monitoring, reliability, extensibility (like dealing with a malicious artifact). \r\n31.\tDesign Unix File Search API, and its extensibility to support various filters and combination of filters. First Unique Character in a string. Then extend to stream of characters. \r\n32.\t Task Scheduler\r\n33.\tDesign a playlist from the DJservice and the Recommendation service to mix the songs .\r\nGiven the list of 10 requirements printed on paper . The core idea is to mix the songs coming from the Djservice and the recommendation service , in a custom proportion or in a equal proportion . Filters can be applied based on the user preferances . Expectation is to write the production ready classes with proper syntax on paper .\r\n34.\tGiven two boxes of A[] , B[] with size n , where each elements represents the sweetness , Given the M students , distribute the sweetness of A , B to each children and you should minimize the total sweetness .\r\n35.\tFind the unoccupied seat position with the maximum distance to the occupied site . Seats[] = {'O','U','U','U','O','O'};  Answer - 2nd indexed seat\r\n36.\tGiven the 2 D array with 2 colours validate if it is a valid chessborad .\r\n37.\tLCS (longest common subsequence)\r\n38.\thttps://leetcode.com/discuss/post/8434443/count-the-uni-valued-subtrees-in-a-binar-tqi2/\r\n39.\tLongest Strictly Increasing Subsequence with Maximum Adjacent Difference Constraint\r\n40.\tGiven an array of integers and an integer k, find the length of the longest subsequence such that:\r\n1.\tThe elements are strictly increasing\r\n2.\tThe difference between any two consecutive elements in the subsequence is at most k\r\n3.\tThe relative order of elements in the original array is maintained (it's a subsequence, not a subarray)\r\nExample 1:\r\nInput: arr = [7, 1, 4, 5, 8, 8, 10, 6, 7, 7, 7, 8], k = 4\r\nOutput: 6\r\nExplanation: The longest valid subsequence is [1, 4, 5, 6, 7, 8]\r\n•\t4 - 1 = 3 ≤ 4 ✓\r\n•\t5 - 4 = 1 ≤ 4 ✓\r\n•\t6 - 5 = 1 ≤ 4 ✓\r\n•\t7 - 6 = 1 ≤ 4 ✓\r\n•\t8 - 7 = 1 ≤ 4 ✓\r\nAll elements appear in the same relative order as in the original array.\r\nExample 2:\r\nInput: arr = [3, 1, 2, 6, 10, 11, 4, 5], k = 3\r\nOutput: 4\r\nExplanation: One valid subsequence is [1, 2, 4, 5]\r\n•\t2 - 1 = 1 ≤ 3 ✓\r\n•\t4 - 2 = 2 ≤ 3 ✓\r\n•\t5 - 4 = 1 ≤ 3 ✓\r\nExample 3:\r\nInput: arr = [5, 4, 3, 2, 1], k = 2\r\nOutput: 1\r\nExplanation: No two elements form a strictly increasing pair in subsequence order, so the longest valid subsequence has length 1.\r\nApproach: This is a variation of the Longest Increasing Subsequence (LIS) problem with an additional constraint on the maximum allowed difference between adjacent elements in the subsequence. \r\n Largest Subset of Binary Strings with Bounded Ones and Zeroes\r\nGiven an array of binary strings and two integers m and n, find the size of the largest subset such that:\r\n1.\tThe total number of 1s across all strings in the subset is at most m\r\n2.\tThe total number of 0s across all strings in the subset is at most n\r\nExample 1:\r\nInput: strs = [\"100\", \"10\", \"1\", \"11\", \"111\"], m = 3, n = 0\r\nOutput: 2\r\nExplanation: The largest valid subset is [\"1\", \"11\"]\r\n•\tTotal 1s = 1 + 2 = 3 ≤ 3 ✓\r\n•\tTotal 0s = 0 + 0 = 0 ≤ 0 ✓\r\nNote: [\"111\"] also satisfies constraints (1s = 3, 0s = 0) but has only 1 element.\r\nDesign a Facebook-like News Feed System at Scale\r\nProblem Statement:\r\nDesign a social media feed system (similar to Facebook) that supports millions of users who can post, view, and like content.\r\nFunctional Requirements:\r\n•\tUsers should be able to post any type of media (text, images, videos)\r\n•\tUsers should be able to view posts in their feed\r\n•\tLike counts and view counts should be visible in real-time\r\n•\tUsers should be able to like and view posts with minimal latency\r\nNon-Functional Requirements / Key Focus Areas:\r\n•\tScale: Handle massive traffic — millions of concurrent users posting, liking, and viewing\r\n•\tFeed Loading Speed: The feed should render almost instantly upon login, even if the user has cleared their browser/app cache\r\nDiscussion Points & Follow-ups:\r\n- API design\r\n- Push vs. Pull model for feed generation — trade-offs of each\r\n- Choice of databases — SQL vs. NoSQL vs. a combination and trade-offs\r\n- Caching strategy — what to cache, invalidation policies, CDN usage for media\r\n- Handling Viral Content (Celebrity Problem):\r\n- A celebrity's post goes viral with millions of likes and views in seconds — how do you prevent this from becoming a bottleneck?\r\n- Rate limiting, sharding/parition strategies, async processing of likes/view counters\r\n- Monolithic vs. Microservices — and why?\r\n- Service boundaries — how would you split responsibilities?\r\n41.\tTell me about a time you used Generative AI to solve a business problem and the measurable results it delivered.\r\n42.\tDesign a Music Streaming Application (like Spotify)\r\nProblem Statement:\r\nDesign a music streaming platform that allows millions of users to discover, search, and stream music seamlessly.\r\nFunctional Requirements:\r\n•\tUsers should be able to search for songs, artists, and albums\r\n•\tUsers should be able to create and manage playlists\r\n•\tUsers should be able to like/save songs and see their library\r\nNon-Functional Requirements:\r\n•\tLow latency playback — music should start playing within milliseconds of pressing play\r\n•\tHigh availability — the service should be up 99.99% of the time\r\n•\tScale — support millions of concurrent listeners streaming simultaneously\r\nDiscussion Points & Follow-ups:\r\n- API design\r\n- How do you serve audio files efficiently to millions of concurrent users?\r\n- CDN strategy for audio content distribution across geographies\r\n- How and where to store millions of audio files (object storage, metadata DB)\r\n- Choice of database for song metadata, user data, playlists\r\n- Storing listening history and user preferences for recommendations\r\n- How to design a fast search system across millions of songs, artists, and albums\r\n- Indexing strategies, full-text search (Elasticsearch/similar)\r\n- Load balancing and horizontal scaling of streaming servers\r\n- Monolithic vs. Microservices — service boundaries (streaming service, search service, recommendation service, user service, playlist service)\r\n43.\tTell me about a time you used Generative AI to automate or streamline a workflow.\r\n44.\tSearch an Element in a Sorted Rotated Array. Given a sorted array that has been rotated at some pivot point, search for a target element and return its index. Return -1 if not found.\r\n45.\tHow do you be a compitent software engineer in this era of Gen AI?\r\n46.\tDesign HLD (30 mins) for device backup scheduler and restore\r\nShould backup device settings, files, media, etc\r\nRestore on new devices\r\n47.\tUnorthodox question around String Manipulation to find next palindromic time of given time \"HH:MM\". (MEDIUM)\r\n48.\tVariation to find kth smallest sum of integers in row wise sorted m*n matrix . Only pick 1 element from each row (HARD)\r\n49.\tDesign and implement Meeting Room Scheduler.\r\n50.\tAggressive cows\r\n51.\thttps://leetcode.com/problems/find-median-from-data-stream/\r\nDesign a notification router for an ecommerce website\r\n1.\tThe user should have a preferred channel (EMAIL, SMS, PUSH)\r\n2.\tNotification has a priority attribute (URGENT, NORMAL)\r\n3.\tIf the notification is urgent, it should be sent to all channels otherwise it should only be sent to the user's preferred channel.\r\n4.\tThe notification handlers need not to be implemented, only routing logic was needed.\r\n5.\tFind unique permutations of a given string - For example, s = \"xxyy\"\r\n6.\tFirst permutation = \"xxyy\"\r\nSecond permutation = \"xxyy\" -> Swap the 0th and 1st index \"x\" characters\r\n7.\tBut the output should contain \"xxyy\" only once. I had to return the list containing all the unique permutations\r\n52.\t 3Sum closest\r\n53.\tNumber of Islands II\r\n54.\thttps://leetcode.com/problems/course-schedule-ii/\r\n55.\thttps://leetcode.com/problems/merge-intervals/\r\n56.\thttps://leetcode.com/problems/product-of-array-except-self/\r\n57.\tDesign: Google Docs (Collaborative Document Editing)\r\nKey areas discussed:\r\n•\tReal-time collaboration\r\no\tOperational Transformation (OT) vs CRDTs for conflict resolution\r\no\tWebSocket connections for low-latency sync\r\n•\tStorage and versioning\r\no\tDelta-based storage for document history\r\no\tSnapshot + diff strategy for efficient retrieval\r\n•\tScalability — sharding by document ID, regional replication\r\n•\tPresence indicators (who's editing what, cursor positions)\r\n•\tPermissions and access control model\r\n58.\tDesign: Uber (Ride-Hailing System)\r\nKey areas discussed:\r\n•\tClass design — Rider, Driver, Trip, Payment, Location entities\r\n•\tTrip state machine: requested → accepted → in_progress → completed / cancelled\r\n•\tDriver matching algorithm — geospatial indexing (quadtree / geohash)\r\n•\tSurge pricing logic and fare calculation service\r\n•\tPayment service integration — idempotency, retries, failure handling\r\n•\tAPI design — REST endpoints for booking, tracking, and cancellation\r\n59.\thttps://leetcode.com/problems/maximum-sum-bst-in-binary-tree/\r\n60.\thttps://leetcode.com/problems/reorganize-string/\r\nAmazon receives transfer notifications whenever money moves between accounts.\r\nTransfers form a chain, for example:\r\nA → B → C → D\r\nInput is provided as pairs:\r\n[A, B]\r\nmeaning money moved from A to B.\r\nTask:\r\nFind:\r\n•\tInitial source account\r\n•\tFinal destination account\r\nExample:\r\nnumberOfTransfers = 3\r\ntransferList = [\r\n(222, 111),\r\n(111, 333),\r\n(444, 222)\r\n]\r\nOutput:\r\nstart = 444\r\nend = 333\r\nExplanation:\r\n444 → 222 → 111 → 333\r\n61.\tDesign Amazon Locker System\r\nRequirements discussed:\r\n•\tDelivery driver deposits package\r\n•\tCustomer receives code\r\n•\tCustomer unlocks locker using code\r\n•\tLocker allocation\r\n•\tOTP/code validation\r\n•\tExpiry handling\r\n•\tMultiple locker sizes\r\n•\tScalability\r\n•\tAvailability\r\n•\tFailure handling\r\nTopics interviewer focused on:\r\n•\tAPI design\r\n•\tDatabase schema\r\n•\tConcurrency handling\r\n•\tDistributed locking\r\n•\tScalability\r\n•\tPerformance optimization\r\n•\tNotification flow\r\n•\tState transitions\r\n62.\tSecure the Network by Disconnecting One Facility Center\r\nA company has a network of Facility Centers (FCs) represented as a graph. Some FCs are compromised. If a compromised FC is connected to other FCs, the compromise spreads to all directly or indirectly connected nodes. You are allowed to disconnect exactly one compromised FC. Find which FC to remove such that the maximum number of clean FCs are saved. (If multiple FCs save the same number of nodes, return the FC with the smallest ID).\r\n•\tSimilar to: Minimize Malware Spread\r\nKey Discussion Areas:\r\n•\tConnected components\r\n•\tDFS / Union Find\r\n•\tEdge cases and constraints\r\n•\tTime and Space Complexity\r\n63.\t Design a Shipping Cost Calculator. Design a system to calculate shipping costs based on multiple dynamic conditions, including weight, distance, delivery type, priority shipping, region-based pricing, and special handling.\r\n64.\tGiven an array of delivery times, output the median of all values seen so far after each new delivery time arrives.\r\nInput: [5, 17, 100, 11]\r\nOutput: [5, 5, 17, 11]\r\nApproach: Solved using the Two Heaps pattern (Max-Heap and Min-Heap).\r\n65.\tGiven values in houses arranged in a line, find the maximum value that can be stolen without robbing two adjacent houses.\r\nInput: [6, 7, 1, 3, 8, 2, 4]\r\nOutput: 19\r\n66.\tDesign the core architecture for a food delivery platform like Zomato.\r\nKey Discussion Areas:\r\n•\tRestaurant onboarding & Menu management\r\n•\tSearch & Discovery\r\n•\tOrder placement & Payments\r\n•\tDelivery assignment & Real-time tracking\r\n•\tNotifications\r\n67.\tEmployee Ratings Management System\r\nA company maintains ratings for employees and needs to process operations in real time.\r\nOperations:\r\n1.\t1 x : Add an employee with rating x.\r\n2.\t2 : Print the highest rating AND the index of the employee having the highest rating (If multiple employees have the same highest rating, return the first occurrence).\r\n3.\t3 i : Delete the employee at index i (Note: Indices shift after deletion).\r\nChallenge: Designing an efficient data structure supporting Insert, Delete-by-index, and Query-max + first-occurrence simultaneously.\r\n68.\thttps://leetcode.com/problems/binary-tree-cameras/description/\r\n69.\tGiven a string s, remove duplicate letters so every letter appears exactly once.  Remove Duplicate Letters\r\nBUT with a twist.\r\nOriginal LC 316 asks for:\r\nsmallest lexicographical\r\nAmazon changed it to:\r\nlargest lexicographical\r\nThat means same monotonic stack pattern, but reverse comparison logic.\r\nReturn the largest lexicographical possible result.\r\n80. given the n sorted list and merge them.\r\n81. given a list of Nodes in a N-ary tree, and given a level you have to return the nodes at the level.\r\n82. Trapping rain water\r\n83. Max consecutive ones III - https://leetcode.com/problems/max-consecutive-ones-iii/\r\n84. maximum profit in job scheduling - https://leetcode.com/problems/maximum-profit-in-job-scheduling/\r\n85. Given two strings str and pattern, return an array of all the start indices of pattern's anagrams in str.\r\n\tInput: str = \"acbadabcaa\", pattern = \"aabc\" Output: [0,5,6] Explanation:\r\n\r\n\tThe substring with start index = 0 is \"acba\", which is an anagram of \"aabc\". \r\n\tThe substring with start index = 5 is \"abca\", which is an anagram of \"aabc\". \r\n\tThe substring with start index = 6 is \"bcaa\", which is an anagram of \"aabc\".\r\n\r\n86. Given an m x n grid of 0 (Water) and 1 (Land), the task is to count the number of islands. \r\n\tAn island is a group of adjacent 1 cells connected horizontally, vertically, or diagonally, \r\n\tand it is surrounded by water or the grid boundary. The goal is to determine how many distinct islands exist in the grid.\r\n\r\n\tInput: grid[][] = \r\n\t[[1, 1, 0, 0, 0],  \r\n \t[0, 1, 0, 0, 1],  \r\n \t[1, 0, 0, 1, 1],  \r\n \t[0, 0, 0, 0, 0],  \r\n \t[1, 0, 1, 1, 0]]\r\n\r\n\tNumber of Islands = 4\r\n87. There are N poles of various heights, and you have a machine whose saw blade can be set at a specific height \"h\" \r\nand it cuts all poles till that height, such that all of them have height \"h\" after the cut. \r\n(Poles with height less than \"h\" remain uncut). You take away the cut portions of all poles with you.\r\n\r\nYour task is to take at least M length of poles with you in total after the cut. \r\nWhat is the maximum height 'h' where you can set your blade to achieve this.\r\n\r\nN = 4\r\nM = 7\r\narr = [20, 15, 10, 17]\r\n88. Proper time and space complexity asked\r\n89. Find the number of unique pairs in a 2d matrix whose sum = target (Numbers are unique)\r\n90. Dijkstra algortihm\r\n91. Binary search\r\n92. First positive missing - https://leetcode.com/problems/first-missing-positive/description/\r\n93. Word break II - https://leetcode.com/problems/word-break-ii/description/\r\n94. https://leetcode.com/problems/word-break/description/\r\n95. Given a grid whose cells are 'O' and 'X', latter being a blokcer. Given source and destination, find if there is a path exists \r\nbetween source and destination. You can only travel down or take a right turn.\r\n96. Course schedule 2\r\n97. Binary tree right view\r\n98. Next permutation\r\n99. Construct the tree with level order and inorder traversal\r\n100. Longest happy prefix - https://leetcode.com/problems/longest-happy-prefix/description\r\n"
+  },
+  {
     "id": 8517486,
     "title": "Amazon SDE Interview Process – Bengaluru | Phone Interview Round?",
     "role": "SDE-1",
