@@ -1,5 +1,183 @@
 [
   {
+    "id": 8522289,
+    "title": "Amazon SDE II vs Adyen SE vs Adobe MTS 2 vs Salesforce MTS — Which Offer Should I Choose?",
+    "role": "SDE-2",
+    "location": "India",
+    "outcome": "Pending",
+    "post_date": "2026-09-15",
+    "interview_date": "September 2026",
+    "url": "https://leetcode.com/discuss/post/8522289/",
+    "author": "Anonymous User",
+    "votes": 0,
+    "views": 107,
+    "tags": [
+      "Amazon",
+      "Adobe",
+      "Salesforce",
+      "Disney",
+      "Adyen",
+      "blinkit",
+      "Compensation",
+      "SDE-2",
+      "Interview Experience"
+    ],
+    "rounds": [
+      {
+        "round_name": "Round 1: Online Assessment / Phone Screen",
+        "questions": [
+          {
+            "name": "Amazon Core Problem Solving & DSA Assessment",
+            "leetcode_equivalent": "LeetCode Pattern",
+            "difficulty": "Medium",
+            "category": "Algorithms & Problem Solving",
+            "description": "Core data structure & algorithm problem covering candidate competencies.",
+            "code_snippet": ""
+          }
+        ],
+        "details": "I have recently been impacted by layoff and currently deciding between multiple offers and would really appreciate some advice, especially from people who have worked at these companies."
+      },
+      {
+        "round_name": "Round 2: Technical Assessment",
+        "questions": [
+          {
+            "name": "Technical Problem Solving & LP Discussion",
+            "leetcode_equivalent": "",
+            "difficulty": "Medium",
+            "category": "Data Structures / LP",
+            "description": "Questions discussed in Round 2: Technical Assessment",
+            "code_snippet": ""
+          }
+        ],
+        "details": "I have ~3 YOE as a backend/SDE and care about **career growth, engineering quality, job security** Compensation matters, but I don’t want to optimize purely for the highest TC."
+      },
+      {
+        "round_name": "Round 3: Technical Assessment",
+        "questions": [
+          {
+            "name": "Technical Problem Solving & LP Discussion",
+            "leetcode_equivalent": "",
+            "difficulty": "Medium",
+            "category": "Data Structures / LP",
+            "description": "Questions discussed in Round 3: Technical Assessment",
+            "code_snippet": ""
+          }
+        ],
+        "details": "**1. Amazon — SDE II (L5), Amazon Music | Bangalore**"
+      },
+      {
+        "round_name": "Round 4: Technical Assessment",
+        "questions": [
+          {
+            "name": "Technical Problem Solving & LP Discussion",
+            "leetcode_equivalent": "",
+            "difficulty": "Medium",
+            "category": "Data Structures / LP",
+            "description": "Questions discussed in Round 4: Technical Assessment",
+            "code_snippet": ""
+          }
+        ],
+        "details": "* Base: ~₹44–45L\n* Year 1 joining bonus: ₹19.5L\n* Year 2 joining bonus: ₹15.3L\n* RSUs + other components\n* TC: ~₹67L\n* Biggest attraction: SDE II/L5 level, brand value, growth and future exit opportunities\n* Concern: WLB/team dependency and job security"
+      }
+    ],
+    "summary": "Amazon interview experience for SDE-2 at India. The candidate went through 4 primary evaluation stages (Round 1: Online Assessment / Phone Screen, Round 2: Technical Assessment, Round 3: Technical Assessment) focusing on Data Structures, System Design, and Amazon Leadership Principles. Final outcome: Pending.",
+    "tips": [
+      "Focus heavily on Amazon LP: 'Ownership'. Prepare 2 distinct STAR stories demonstrating this principle.",
+      "Structure all behavioral answers using the STAR format (Situation, Task, Action, Result) with quantified business impact.",
+      "Clarify ambiguous requirements upfront and discuss multiple trade-offs before writing a single line of code.",
+      "Amazon Bar Raiser evaluates team culture fit and ownership; never blame colleagues or past management."
+    ],
+    "leadership_principles": [
+      "Ownership"
+    ],
+    "full_text": "Hi everyone,\n\nI have recently been impacted by layoff and currently deciding between multiple offers and would really appreciate some advice, especially from people who have worked at these companies.\n\nI have ~3 YOE as a backend/SDE and care about **career growth, engineering quality, job security** Compensation matters, but I don’t want to optimize purely for the highest TC.\n\nCurrent TC: 30 Base + 10% bonus\n\n### Offers\n\n**1. Amazon — SDE II (L5), Amazon Music | Bangalore**\n\n* Base: ~₹44–45L\n* Year 1 joining bonus: ₹19.5L\n* Year 2 joining bonus: ₹15.3L\n* RSUs + other components\n* TC: ~₹67L\n* Biggest attraction: SDE II/L5 level, brand value, growth and future exit opportunities\n* Concern: WLB/team dependency and job security\n\n**2. Adyen — Software Engineer | Bangalore**\n\n* Base: ~₹45L\n* TC: ~₹55–60L\n* Biggest attraction: engineering culture, payments domain, WLB and relatively stable environment\n* Concern: Less comp than Amazon but less recognition\n\n**3. Adobe — MTS 2 | Bangalore**\n\n* Base: ₹26L\n* Target bonus: ₹2.6L\n* RSUs: $68.8K / 4 years\n* Joining bonus: ₹3L\n* Biggest attraction: good WLB/stability + my previous manager/team members are moving there\n* Concern: significantly lower cash compensation\n\n**4. Salesforce — MTS | Bangalore**\n\n* Base: ₹30L\n* Bonus: ~10%\n* RSUs: ~$50–54K / 4 years\n* Relocation/one-time benefits\n* Biggest attraction: strong brand, decent WLB and compensation\n* Concern: not sure if it offers the same career acceleration as Amazon/Adyen\n\n**5. Disney — Product Software Engineer II**\n\n* Base: ~₹25.4L\n* Target bonus: ~₹1.8L\n* Joining bonus: ₹2.5L\n* LTI/stock component\n* Biggest attraction: brand + potentially better WLB\n* Concern: compensation and growth compared with the other options\n\n**6. Blinkit — SDE II**\n\n* Fixed: ~₹36L\n* Performance bonus: up to ~₹10L\n* Biggest attraction: high ownership, fast growth and startup/product exposure\n* Concern: WLB and stability\n\nRight now, my main confusion is **Amazon SDE II vs Adyen SE**.\n\nAmazon gives me the L5 title, higher TC and potentially stronger career acceleration. Adyen seems attractive for engineering culture, WLB and stability while still paying very well.\n\nIf you were in my position, which one would you choose?\n\nWould especially appreciate insights on:\n\n* WLB\n* Job security\n* Engineering culture\n* Promotion/growth\n* Resume/brand value\n* Exit opportunities after 2–3 years\n\nThanks!\n\n#Amazon #Blinkit #Salesforce #Adobe #Disney"
+  },
+  {
+    "id": 8521277,
+    "title": "Amazon SDE 2 Offer details - should i switch",
+    "role": "SDE-2",
+    "location": "USA",
+    "outcome": "Pending",
+    "post_date": "2026-09-14",
+    "interview_date": "September 2026",
+    "url": "https://leetcode.com/discuss/post/8521277/",
+    "author": "Anonymous User",
+    "votes": 0,
+    "views": 943,
+    "tags": [
+      "Amazon",
+      "Compensation",
+      "SDE-2",
+      "Interview Experience"
+    ],
+    "rounds": [
+      {
+        "round_name": "Round 1: Online Assessment / Phone Screen",
+        "questions": [
+          {
+            "name": "Amazon Core Problem Solving & DSA Assessment",
+            "leetcode_equivalent": "LeetCode Pattern",
+            "difficulty": "Medium",
+            "category": "Algorithms & Problem Solving",
+            "description": "Core data structure & algorithm problem covering candidate competencies.",
+            "code_snippet": ""
+          }
+        ],
+        "details": "Hi, I recently appeared for amazon sde-2 full loop and managed to get an offer , sharing the offer details and looking for input whether i should make the switch"
+      },
+      {
+        "round_name": "Round 2: Technical Assessment",
+        "questions": [
+          {
+            "name": "Technical Problem Solving & LP Discussion",
+            "leetcode_equivalent": "",
+            "difficulty": "Medium",
+            "category": "Data Structures / LP",
+            "description": "Questions discussed in Round 2: Technical Assessment",
+            "code_snippet": ""
+          }
+        ],
+        "details": "YOE -> almost 5 yoe\ncurrent tc: 52 lpa per year but with perks projected earning around 55 lpa\ncurrent company: salesforce\ncollege: tier 3 college"
+      },
+      {
+        "round_name": "Round 3: Technical Assessment",
+        "questions": [
+          {
+            "name": "Technical Problem Solving & LP Discussion",
+            "leetcode_equivalent": "",
+            "difficulty": "Medium",
+            "category": "Data Structures / LP",
+            "description": "Questions discussed in Round 3: Technical Assessment",
+            "code_snippet": ""
+          }
+        ],
+        "details": "Amazon offer details:\nbase : 45 lpa\nbonus first year : 16 lpa\nstocks: 220 units"
+      },
+      {
+        "round_name": "Round 4: Technical Assessment",
+        "questions": [
+          {
+            "name": "Technical Problem Solving & LP Discussion",
+            "leetcode_equivalent": "",
+            "difficulty": "Medium",
+            "category": "Data Structures / LP",
+            "description": "Questions discussed in Round 4: Technical Assessment",
+            "code_snippet": ""
+          }
+        ],
+        "details": "Here is the kicker i have previously worked at amazon and a boomerang candiate, the first time experience was horrible at one of my teams"
+      }
+    ],
+    "summary": "Amazon interview experience for SDE-2 at USA. The candidate went through 4 primary evaluation stages (Round 1: Online Assessment / Phone Screen, Round 2: Technical Assessment, Round 3: Technical Assessment) focusing on Data Structures, System Design, and Amazon Leadership Principles. Final outcome: Pending.",
+    "tips": [
+      "Structure all behavioral answers using the STAR format (Situation, Task, Action, Result) with quantified business impact.",
+      "Clarify ambiguous requirements upfront and discuss multiple trade-offs before writing a single line of code.",
+      "Amazon Bar Raiser evaluates team culture fit and ownership; never blame colleagues or past management."
+    ],
+    "leadership_principles": [],
+    "full_text": "Hi, I recently appeared for amazon sde-2 full loop and managed to get an offer , sharing the offer details and looking for input whether i should make the switch\n\nYOE -> almost 5 yoe\ncurrent tc: 52 lpa per year but with perks projected earning around 55 lpa\ncurrent company: salesforce\ncollege: tier 3 college\n\n\nAmazon offer details:\nbase : 45 lpa\nbonus first year : 16 lpa\nstocks: 220 units\n\nfirst year comp around: 61 lpa\n\nHere is the kicker i have previously worked at amazon and a boomerang candiate, the first time experience was horrible at one of my teams \n\nIs the jump meaningful that i should consider amazon , i might get promoted to smts in the upcoming cycle and that will translate into a meaningful pay increase \n\n\n"
+  },
+  {
     "id": 8520561,
     "title": "Amazon SDE Intern Interview Chances",
     "role": "SDE-1",
