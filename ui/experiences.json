@@ -1,5 +1,319 @@
 [
   {
+    "id": 8523912,
+    "title": "Amazon SDE-2 Interview Experience",
+    "role": "SDE-2",
+    "location": "USA",
+    "outcome": "Pending",
+    "post_date": "2026-09-16",
+    "interview_date": "September 2026",
+    "url": "https://leetcode.com/discuss/post/8523912/",
+    "author": "Anonymous User",
+    "votes": 0,
+    "views": 173,
+    "tags": [
+      "Amazon",
+      "interview experience",
+      "Interview",
+      "SDE-2",
+      "Interview Experience"
+    ],
+    "rounds": [
+      {
+        "round_name": "Round 1 -> DSA",
+        "questions": [
+          {
+            "name": "Amazon Core Problem Solving & DSA Assessment",
+            "leetcode_equivalent": "LeetCode Pattern",
+            "difficulty": "Medium",
+            "category": "Algorithms & Problem Solving",
+            "description": "Core data structure & algorithm problem covering candidate competencies.",
+            "code_snippet": ""
+          }
+        ],
+        "details": "was asked two questions\n\nhttps://leetcode.com/problems/longest-consecutive-sequence/description/\n\nhttps://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/\n\nmanaged to solve both\n\ntwo LP questions: Customer Obsession and Deliver Results"
+      },
+      {
+        "round_name": "Round 2-> HLD",
+        "questions": [
+          {
+            "name": "Technical Problem Solving & LP Discussion",
+            "leetcode_equivalent": "",
+            "difficulty": "Medium",
+            "category": "Data Structures / LP",
+            "description": "Questions discussed in Round 2-> HLD",
+            "code_snippet": ""
+          }
+        ],
+        "details": "Design chatgpt -> no explicit requirements\n\nDid requirement gathering and was able to explain the tradeoffs i will make, interviewer kept interrupting and that made keeping the mental flow difficult\n\nso if you are practicing make sure you do mock interviews\n\nLP -> Disagree and commit"
+      },
+      {
+        "round_name": "Round 3-> LLD",
+        "questions": [
+          {
+            "name": "Technical Problem Solving & LP Discussion",
+            "leetcode_equivalent": "",
+            "difficulty": "Medium",
+            "category": "Data Structures / LP",
+            "description": "Questions discussed in Round 3-> LLD",
+            "code_snippet": ""
+          }
+        ],
+        "details": "Design Logging Framework -> no explicit requirements\n\nDid requirement gathering and explained the class structure\n\nSelf verdict: should have done a lot better in this round"
+      },
+      {
+        "round_name": "Round 4-> Bar raiser",
+        "questions": [
+          {
+            "name": "Technical Problem Solving & LP Discussion",
+            "leetcode_equivalent": "",
+            "difficulty": "Medium",
+            "category": "Data Structures / LP",
+            "description": "Questions discussed in Round 4-> Bar raiser",
+            "code_snippet": ""
+          }
+        ],
+        "details": "Some grilling on LP and then a standard question: https://leetcode.com/problems/insert-delete-getrandom-o1/description/\n\nmy compensation details:\nhttps://leetcode.com/discuss/post/8521277/amazon-sde-2-offer-details-should-i-swit-ek65/"
+      }
+    ],
+    "summary": "Amazon interview experience for SDE-2 at USA. The candidate went through 4 primary evaluation stages (Round 1 -> DSA, Round 2-> HLD, Round 3-> LLD) focusing on Data Structures, System Design, and Amazon Leadership Principles. Final outcome: Pending.",
+    "tips": [
+      "Focus heavily on Amazon LP: 'Customer Obsession'. Prepare 2 distinct STAR stories demonstrating this principle.",
+      "Focus heavily on Amazon LP: 'Deliver Results'. Prepare 2 distinct STAR stories demonstrating this principle.",
+      "Structure all behavioral answers using the STAR format (Situation, Task, Action, Result) with quantified business impact.",
+      "Clarify ambiguous requirements upfront and discuss multiple trade-offs before writing a single line of code."
+    ],
+    "leadership_principles": [
+      "Customer Obsession",
+      "Deliver Results"
+    ],
+    "full_text": "Hi folks, i recently went through the full amazon interview experience \n\nRound 1 -> DSA\n\nwas asked two questions \n\nhttps://leetcode.com/problems/longest-consecutive-sequence/description/\n\nhttps://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/\n\nmanaged to solve both \n\ntwo LP questions: Customer Obsession and Deliver Results\n\nRound 2-> HLD\n\nDesign chatgpt -> no explicit requirements \n\nDid requirement gathering and was able to explain the tradeoffs i will make, interviewer kept interrupting and that made keeping the mental flow difficult\n\nso if you are practicing make sure you do mock interviews\n\nLP -> Disagree and commit\n\n\nRound 3-> LLD\n\nDesign Logging Framework -> no explicit requirements\n\nDid requirement gathering and explained the class structure \n\nSelf verdict: should have done a lot better in this round\n\n\nRound 4-> Bar raiser\n\nSome grilling on LP and then a standard question: https://leetcode.com/problems/insert-delete-getrandom-o1/description/\n\nmy compensation details: \nhttps://leetcode.com/discuss/post/8521277/amazon-sde-2-offer-details-should-i-swit-ek65/"
+  },
+  {
+    "id": 8523471,
+    "title": "Amazon SDE intern OA experience",
+    "role": "SDE-1",
+    "location": "USA",
+    "outcome": "Pending",
+    "post_date": "2026-09-15",
+    "interview_date": "September 2026",
+    "url": "https://leetcode.com/discuss/post/8523471/",
+    "author": "kevin_sebin",
+    "votes": 0,
+    "views": 134,
+    "tags": [
+      "Amazon",
+      "Online Assessment",
+      "DSA",
+      "Interview",
+      "OA",
+      "amazon sde1",
+      "amazonintern",
+      "amazon_intern",
+      "amazon_OA",
+      "SDE-1",
+      "Interview Experience"
+    ],
+    "rounds": [
+      {
+        "round_name": "Round 1: Online Assessment / Phone Screen",
+        "questions": [
+          {
+            "name": "Amazon Core Problem Solving & DSA Assessment",
+            "leetcode_equivalent": "LeetCode Pattern",
+            "difficulty": "Medium",
+            "category": "Algorithms & Problem Solving",
+            "description": "Core data structure & algorithm problem covering candidate competencies.",
+            "code_snippet": ""
+          }
+        ],
+        "details": "# Amazon OA Experience on Campus (02/09/2026)\r\n\r\n\r\n## OA Structure\r\n1. **Coding** — DSA + AI assisted Repo Debugging\r\n2. **Workstyle Assessment**\r\n3. **Behavioral Assessment**\r\n\r\n---\r\n\r\n## Section 1a: DSA Question\r\n\r\n**Title: Make Power Non-decreasing**\r\n### Problem\r\nAWS provides scalable systems. A set of `n` servers are used for horizontally scaling an application.\r\n\r\nThe goal is to have the computational power of the servers in non-decreasing order. To do this, you can increase the computational power of each server in any contiguous segment by `x`. Choose values of `x` such that after the computational powers are in non-decreasing order, the sum of all `x` values used is minimized.\r\n\r\n### Example\r\n```\r\npower = [3, 4, 1, 6, 2]\r\nreturn = 7\r\n```\r\nAdd `3` units to the subarray `(2, 4)` (0-indexed or 1-indexed — placeholder) and `4` units to the subarray `(4, 4)`.\r\nFinal arrangement: `[3, 4, 4, 9, 9]`\r\nAnswer: `3 + 4 = 7`\r\n\r\n**passed 15/15 testcases**\r\n\r\n---\r\n\r\n## Section 1b: AI assisted Repo Debugging\r\n**Repo:** A ticketing/support-desk style app where users can open a ticket describing a bug, and multiple people can reply to that ticket (like a comment thread).\r\n\r\n**Bugs to fix (6"
+      }
+    ],
+    "summary": "Amazon interview experience for SDE-1 at USA. The candidate went through 1 primary evaluation stages (Round 1: Online Assessment / Phone Screen) focusing on Data Structures, System Design, and Amazon Leadership Principles. Final outcome: Pending.",
+    "tips": [
+      "Structure all behavioral answers using the STAR format (Situation, Task, Action, Result) with quantified business impact.",
+      "Clarify ambiguous requirements upfront and discuss multiple trade-offs before writing a single line of code.",
+      "Amazon Bar Raiser evaluates team culture fit and ownership; never blame colleagues or past management."
+    ],
+    "leadership_principles": [],
+    "full_text": "# Amazon OA Experience on Campus (02/09/2026)\r\n\r\n\r\n## OA Structure\r\n1. **Coding** — DSA + AI assisted Repo Debugging\r\n2. **Workstyle Assessment**\r\n3. **Behavioral Assessment**\r\n\r\n---\r\n\r\n## Section 1a: DSA Question\r\n\r\n**Title: Make Power Non-decreasing**\r\n### Problem\r\nAWS provides scalable systems. A set of `n` servers are used for horizontally scaling an application.\r\n\r\nThe goal is to have the computational power of the servers in non-decreasing order. To do this, you can increase the computational power of each server in any contiguous segment by `x`. Choose values of `x` such that after the computational powers are in non-decreasing order, the sum of all `x` values used is minimized.\r\n\r\n### Example\r\n```\r\npower = [3, 4, 1, 6, 2]\r\nreturn = 7\r\n```\r\nAdd `3` units to the subarray `(2, 4)` (0-indexed or 1-indexed — placeholder) and `4` units to the subarray `(4, 4)`.\r\nFinal arrangement: `[3, 4, 4, 9, 9]`\r\nAnswer: `3 + 4 = 7`\r\n\r\n**passed 15/15 testcases**\r\n\r\n---\r\n\r\n## Section 1b: AI assisted Repo Debugging\r\n**Repo:** A ticketing/support-desk style app where users can open a ticket describing a bug, and multiple people can reply to that ticket (like a comment thread).\r\n\r\n**Bugs to fix (6 test cases total):**\r\n- Creating a new ticket wasn't working (new tickets weren't being added)\r\n- Once a ticket was created, users couldn't reply to it\r\n\r\n**tech stack used — Django**\r\n**passed 2/6 test cases**\r\n\r\n---\r\n\r\n## Verdict\r\nShortlisted for technical interviews"
+  },
+  {
+    "id": 8522985,
+    "title": "Amazon SDE-2 Interview Experience - Selected",
+    "role": "SDE-2",
+    "location": "India",
+    "outcome": "Offer",
+    "post_date": "2026-09-15",
+    "interview_date": "September 2026",
+    "url": "https://leetcode.com/discuss/post/8522985/",
+    "author": "Anonymous User",
+    "votes": 0,
+    "views": 712,
+    "tags": [
+      "Amazon",
+      "Online Assessment",
+      "Interview",
+      "SDE-2",
+      "Interview Experience"
+    ],
+    "rounds": [
+      {
+        "round_name": "Round 1: Online Assessment / Phone Screen",
+        "questions": [
+          {
+            "name": "Amazon Core Problem Solving & DSA Assessment",
+            "leetcode_equivalent": "LeetCode Pattern",
+            "difficulty": "Medium",
+            "category": "Algorithms & Problem Solving",
+            "description": "Core data structure & algorithm problem covering candidate competencies.",
+            "code_snippet": ""
+          }
+        ],
+        "details": "Sharing my recent **Amazon SDE-2 interview experience**."
+      },
+      {
+        "round_name": "Round 2: Technical Assessment",
+        "questions": [
+          {
+            "name": "Technical Problem Solving & LP Discussion",
+            "leetcode_equivalent": "",
+            "difficulty": "Medium",
+            "category": "Data Structures / LP",
+            "description": "Questions discussed in Round 2: Technical Assessment",
+            "code_snippet": ""
+          }
+        ],
+        "details": "**DSA:** A medium-difficulty problem centered around prefix and suffix sums. The challenge was not computing the arrays, but applying additional logic on top of them."
+      },
+      {
+        "round_name": "Round 3: Technical Assessment",
+        "questions": [
+          {
+            "name": "Technical Problem Solving & LP Discussion",
+            "leetcode_equivalent": "",
+            "difficulty": "Medium",
+            "category": "Data Structures / LP",
+            "description": "Questions discussed in Round 3: Technical Assessment",
+            "code_snippet": ""
+          }
+        ],
+        "details": "**AI Repository:** Navigate a real codebase using an AI assistant, identify a business-logic bug causing failing tests, and manually implement the fix. AI could help explore the project but not generate the final patch."
+      },
+      {
+        "round_name": "Round 4: Technical Assessment",
+        "questions": [
+          {
+            "name": "Technical Problem Solving & LP Discussion",
+            "leetcode_equivalent": "",
+            "difficulty": "Medium",
+            "category": "Data Structures / LP",
+            "description": "Questions discussed in Round 4: Technical Assessment",
+            "code_snippet": ""
+          }
+        ],
+        "details": "**Focus:** DSA, debugging, code understanding, and effective AI usage."
+      }
+    ],
+    "summary": "Amazon interview experience for SDE-2 at India. The candidate went through 4 primary evaluation stages (Round 1: Online Assessment / Phone Screen, Round 2: Technical Assessment, Round 3: Technical Assessment) focusing on Data Structures, System Design, and Amazon Leadership Principles. Final outcome: Offer.",
+    "tips": [
+      "Structure all behavioral answers using the STAR format (Situation, Task, Action, Result) with quantified business impact.",
+      "Clarify ambiguous requirements upfront and discuss multiple trade-offs before writing a single line of code.",
+      "Amazon Bar Raiser evaluates team culture fit and ownership; never blame colleagues or past management."
+    ],
+    "leadership_principles": [],
+    "full_text": "\n\nSharing my recent **Amazon SDE-2 interview experience**.\n\n### Online Assessment\n\n**Difficulty:** Medium\n\n**DSA:** A medium-difficulty problem centered around prefix and suffix sums. The challenge was not computing the arrays, but applying additional logic on top of them.\n\n**AI Repository:** Navigate a real codebase using an AI assistant, identify a business-logic bug causing failing tests, and manually implement the fix. AI could help explore the project but not generate the final patch.\n\n**Focus:** DSA, debugging, code understanding, and effective AI usage.\n\n---\n\n### Round 1 – DSA + Leadership Principles\n\n**Difficulty:** Medium\n\n**Problem 1:** Given histogram bar heights, find the largest rectangular area formed by consecutive bars. Expected optimal solution: monotonic stack.\n\n**Problem 2:** Given a grid with positive and negative values that increase/decrease your power, find the minimum initial power needed to safely reach the bottom-right cell without power dropping to zero.\n\n**Focus:** Stacks, DP, optimization, complexity explanation, and LPs.\n\n---\n\n### Round 2 – System Design + Leadership Principles\n\n**Difficulty:** Hard\n\n**Question:** Design an Attendance Management System for hourly employees. The interviewer intentionally gave almost no constraints and expected the candidate to gather requirements, define assumptions, design APIs, data model, event flow, scalability, consistency, failure handling, and observability.\n\n**Focus:** Requirement clarification, proactive discussion, scalability, trade-offs, and failure handling.\n\n---\n\n### Round 3 – LLD + Leadership Principles\n\n**Difficulty:** Medium\n\n**Question:** Design a terminal-based file search utility. It should support searching by attributes such as name, size, extension, etc., and allow complex queries combining filters using logical AND/OR. The focus was on an extensible object-oriented design.\n\n**Focus:** Clean OOP, extensibility, and Specification/Composite-style design.\n\n---\n\n### Bar Raiser\n\n**Difficulty:** Medium\n\n**Problem 1:** Given a valid time (HH:MM), find the next 'good time'. After a brute-force solution, the discussion shifted toward a cleaner production-quality implementation.\n\n**Problem 2:** Find a common element present in every sorted row of a matrix. The interview emphasized progressing from brute force to an optimized approach and clearly communicating the reasoning.\n\n**Focus:** Correctness, optimization, production-quality code, and LPs.\n\n---\n\n### Key Takeaways\n\n* Leadership Principles were discussed in almost every round.\n* Explain your thought process clearly.\n* Start with a correct solution, then optimize.\n* Clarify requirements before system design.\n* Discuss trade-offs, failures, scalability, and observability.\n* Amazon evaluates problem solving, communication, and production thinking — not just coding.\n\nHope this helps anyone preparing for Amazon SDE-2 interviews.\n\nComp - https://leetcode.com/discuss/post/8448320/amazon-sde-2-l5-hyderabad-3-yoe-compensa-v5id/ \n"
+  },
+  {
+    "id": 8522904,
+    "title": "Amazon Internship | OA Experience – Exam Pattern & Sections",
+    "role": "SDE-1",
+    "location": "USA",
+    "outcome": "Pending",
+    "post_date": "2026-09-15",
+    "interview_date": "September 2026",
+    "url": "https://leetcode.com/discuss/post/8522904/",
+    "author": "Niharikareddi",
+    "votes": 0,
+    "views": 123,
+    "tags": [
+      "Amazon",
+      "Online Assessment",
+      "Interview",
+      "SDE-1",
+      "Interview Experience"
+    ],
+    "rounds": [
+      {
+        "round_name": "Round 1: Online Assessment / Phone Screen",
+        "questions": [
+          {
+            "name": "Amazon Core Problem Solving & DSA Assessment",
+            "leetcode_equivalent": "LeetCode Pattern",
+            "difficulty": "Medium",
+            "category": "Algorithms & Problem Solving",
+            "description": "Core data structure & algorithm problem covering candidate competencies.",
+            "code_snippet": ""
+          }
+        ],
+        "details": "Hi, I took the **Amazon Internship Assessment today** and wanted to share the overall process and exam structure because it may help others who are preparing for it.\r\n\r\nThe assessment had **multiple sections**, and each section tested a different area.\r\n\r\n### 1. Coding + Backend Development – 100 minutes\r\n\r\nThe first part had **two sections**:\r\n\r\n**Section 1 – Coding Question ⏱️ 45 minutes**\r\n\r\n* One coding problem\r\n* Time limit: **45 minutes**\r\n* You need to solve and test your solution within the given time.\r\n\r\n**Section 2 – Backend Service ⏱️ 55 minutes**\r\n\r\nThis section was more practical.\r\n\r\nYou are given a **repository/codebase** and asked to work on it based on the requirements.\r\n\r\nThe backend technology can be something like:\r\n\r\n* Spring Boot\r\n* Django\r\n* or another backend framework\r\n\r\nYou choose the technology/framework based on what you are comfortable with, and then work on the provided repository.\r\n\r\nThe main challenge for me was managing the time between **understanding the existing code, making the required changes, running the project, and testing the test cases**.\r\n\r\nI had some issues while working on this section, and by the time I fixed them and tried to test eve"
+      }
+    ],
+    "summary": "Amazon interview experience for SDE-1 at USA. The candidate went through 1 primary evaluation stages (Round 1: Online Assessment / Phone Screen) focusing on Data Structures, System Design, and Amazon Leadership Principles. Final outcome: Pending.",
+    "tips": [
+      "Structure all behavioral answers using the STAR format (Situation, Task, Action, Result) with quantified business impact.",
+      "Clarify ambiguous requirements upfront and discuss multiple trade-offs before writing a single line of code.",
+      "Amazon Bar Raiser evaluates team culture fit and ownership; never blame colleagues or past management."
+    ],
+    "leadership_principles": [],
+    "full_text": "Hi, I took the **Amazon Internship Assessment today** and wanted to share the overall process and exam structure because it may help others who are preparing for it.\r\n\r\nThe assessment had **multiple sections**, and each section tested a different area.\r\n\r\n### 1. Coding + Backend Development – 100 minutes\r\n\r\nThe first part had **two sections**:\r\n\r\n**Section 1 – Coding Question ⏱️ 45 minutes**\r\n\r\n* One coding problem\r\n* Time limit: **45 minutes**\r\n* You need to solve and test your solution within the given time.\r\n\r\n**Section 2 – Backend Service ⏱️ 55 minutes**\r\n\r\nThis section was more practical.\r\n\r\nYou are given a **repository/codebase** and asked to work on it based on the requirements.\r\n\r\nThe backend technology can be something like:\r\n\r\n* Spring Boot\r\n* Django\r\n* or another backend framework\r\n\r\nYou choose the technology/framework based on what you are comfortable with, and then work on the provided repository.\r\n\r\nThe main challenge for me was managing the time between **understanding the existing code, making the required changes, running the project, and testing the test cases**.\r\n\r\nI had some issues while working on this section, and by the time I fixed them and tried to test everything, the time was almost over.\r\n\r\nSo, one thing I would definitely recommend is:\r\n\r\n**Don't spend too much time trying to make everything perfect. Get the basic implementation working first, then test and improve if you have time.**\r\n\r\nThe total time for these two sections was **100 minutes**.\r\n\r\n---\r\n\r\n### 2. Behavioural Assessment\r\n\r\nAfter the technical part, there was a **behavioural section**.\r\n\r\nThe questions were mainly scenario-based.\r\n\r\nFor example, you may be given a situation involving:\r\n\r\n* Your manager/senior\r\n* A teammate\r\n* A disagreement\r\n* A work-related problem\r\n* How you would respond in a particular situation\r\n\r\nYou may have to choose which response would be **most effective** and which would be **least effective/ineffective**.\r\n\r\nI would recommend understanding Amazon's workplace/leadership expectations before taking this section rather than randomly choosing answers.\r\n\r\n---\r\n\r\n### 3. Work & Interests\r\n\r\nThe final part focused more on **your work experience/interests and professional preferences**.\r\n\r\nIt gives them an idea about what kind of work you are interested in and how your interests align with different types of roles.\r\n\r\n---\r\n\r\n## Overall Experience\r\n\r\nFor me, the **backend repository section was the most challenging part**, mainly because of the limited time.\r\n\r\nThe important thing is to be comfortable with:\r\n\r\n* Reading an existing codebase quickly\r\n* Understanding requirements\r\n* Making changes without breaking existing functionality\r\n* Running the application\r\n* Testing your implementation\r\n* Debugging quickly\r\n\r\nIf you're preparing for this assessment, I would definitely recommend practicing **real backend tasks on an existing repository**, not just solving coding problems.\r\n\r\nHope this helps anyone who has an upcoming Amazon Internship Assessment. Good luck! 🚀\r\n\r\nIf anyone else has taken the assessment recently, feel free to share your experience too. It would be helpful for future candidates.\r\n"
+  },
+  {
+    "id": 8522672,
+    "title": "Amazon University Internship 2026: No Update After OA on 15 August",
+    "role": "SDE-1",
+    "location": "USA",
+    "outcome": "Rejected",
+    "post_date": "2026-09-15",
+    "interview_date": "August 2026",
+    "url": "https://leetcode.com/discuss/post/8522672/",
+    "author": "sanesh7644",
+    "votes": 0,
+    "views": 80,
+    "tags": [
+      "Amazon",
+      "Career",
+      "Online Assessment",
+      "SDE-1",
+      "Interview Experience"
+    ],
+    "rounds": [
+      {
+        "round_name": "OA Date: 15 August 2026",
+        "questions": [
+          {
+            "name": "Amazon Core Problem Solving & DSA Assessment",
+            "leetcode_equivalent": "LeetCode Pattern",
+            "difficulty": "Medium",
+            "category": "Algorithms & Problem Solving",
+            "description": "Core data structure & algorithm problem covering candidate competencies.",
+            "code_snippet": ""
+          }
+        ],
+        "details": "Current Status: No update after OA\n\nIf you appeared for the same OA, please share your OA date and current status. It would be really helpful to understand the timeline for this hiring process.\n\nThanks in advance!"
+      }
+    ],
+    "summary": "Amazon interview experience for SDE-1 at USA. The candidate went through 1 primary evaluation stages (OA Date: 15 August 2026) focusing on Data Structures, System Design, and Amazon Leadership Principles. Final outcome: Rejected.",
+    "tips": [
+      "Structure all behavioral answers using the STAR format (Situation, Task, Action, Result) with quantified business impact.",
+      "Clarify ambiguous requirements upfront and discuss multiple trade-offs before writing a single line of code.",
+      "Amazon Bar Raiser evaluates team culture fit and ownership; never blame colleagues or past management."
+    ],
+    "leadership_principles": [],
+    "full_text": "Hi everyone,\r\n\r\nI applied for the Amazon University Internship 2026 and completed the Online Assessment (OA) on 15 August 2026.\r\n\r\nIt has been several weeks since I completed the OA, but I haven’t received any update from Amazon regarding the OA result or the next round. I also haven’t received any rejection email so far.\r\n\r\nI wanted to check with other candidates who applied for the same internship:\r\n\r\nHas anyone received an update after the OA?\r\nHas anyone received an interview or next-round invitation?\r\nHow long does Amazon usually take to share OA results?\r\nIs it normal to have no communication for this long?\r\nShould I continue waiting, or is there any appropriate way to follow up with the recruiting team?\r\n\r\nMy timeline:\r\n\r\nRole: Amazon University Internship 2026\r\nOA Date: 15 August 2026\r\nCurrent Status: No update after OA\r\n\r\nIf you appeared for the same OA, please share your OA date and current status. It would be really helpful to understand the timeline for this hiring process.\r\n\r\nThanks in advance!"
+  },
+  {
     "id": 8522289,
     "title": "Amazon SDE II vs Adyen SE vs Adobe MTS 2 vs Salesforce MTS — Which Offer Should I Choose?",
     "role": "SDE-2",
