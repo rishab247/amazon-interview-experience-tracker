@@ -1,5 +1,251 @@
 [
   {
+    "id": 8525216,
+    "title": "Amazon SDE-I | Interview Experience 2026",
+    "role": "SDE-1",
+    "location": "India",
+    "outcome": "Pending",
+    "post_date": "2026-09-16",
+    "interview_date": "September 2026",
+    "url": "https://leetcode.com/discuss/post/8525216/",
+    "author": "Anonymous User",
+    "votes": 0,
+    "views": 330,
+    "tags": [
+      "Amazon",
+      "Interview",
+      "SDE-1",
+      "Interview Experience"
+    ],
+    "rounds": [
+      {
+        "round_name": "Round 1 — 11th September, 11 AM",
+        "questions": [
+          {
+            "name": "Amazon Core Problem Solving & DSA Assessment",
+            "leetcode_equivalent": "LeetCode Pattern",
+            "difficulty": "Medium",
+            "category": "Algorithms & Problem Solving",
+            "description": "Core data structure & algorithm problem covering candidate competencies.",
+            "code_snippet": ""
+          }
+        ],
+        "details": "Started with questions about my projects and the work I was currently doing. There were several cross-questions, including questions about the table/database structure of my project.\n\n**DSA:** Find all active/reachable nodes in a graph.\n\nFollow-up: If there are two connected components, find the nodes/edges that need to be added to make the graph connected.\n\nI was able to solve both the main question and the follow-up.\n\n**Leadership Principles:** Tell me about a time when you had to implement something challenging.\n\nAfter the round, the recruiter informed me that my second round was scheduled after lunch."
+      },
+      {
+        "round_name": "Round 2 — 11th September, 2 PM",
+        "questions": [
+          {
+            "name": "Technical Problem Solving & LP Discussion",
+            "leetcode_equivalent": "",
+            "difficulty": "Medium",
+            "category": "Data Structures / LP",
+            "description": "Questions discussed in Round 2 — 11th September, 2 PM",
+            "code_snippet": ""
+          }
+        ],
+        "details": "**LLD:** Parking ticketing/receipt system.\n\nI designed the basic system and was asked to add some new functionality. I was able to handle a couple of follow-ups, but I missed considering peak and non-peak hour pricing.\n\nI was told that the remaining round would be online, but before leaving the office, I was informed that the third round was already scheduled."
+      },
+      {
+        "round_name": "Round 3 — 11th September, 4:15 PM",
+        "questions": [
+          {
+            "name": "Technical Problem Solving & LP Discussion",
+            "leetcode_equivalent": "",
+            "difficulty": "Medium",
+            "category": "Data Structures / LP",
+            "description": "Questions discussed in Round 3 — 11th September, 4:15 PM",
+            "code_snippet": ""
+          }
+        ],
+        "details": "**GenAI questions:**\n\n* How do you use AI in your work?\n* Have you built something using AI?\n* How do you evaluate whether an AI response is correct?\n* How do you ensure the output is reliable?\n\n**Leadership Principles:**\n\n* What is the most complex problem you have worked on?\n* Why was it complex?\n* Was it mainly because you were unfamiliar with the technology/stack?\n\nAt the end, I was told that the recruitment team would get back to me within a week.\n\nI haven't received any update yet, so I don't know the final outcome.\n\nThat's it from my side. I wanted to share my experience because LeetCode Discuss posts helped me a lot during my preparation. Hopefully, this helps someone else preparing for Amazon.\n\nAll the best!"
+      }
+    ],
+    "summary": "Amazon interview experience for SDE-1 at India. The candidate went through 3 primary evaluation stages (Round 1 — 11th September, 11 AM, Round 2 — 11th September, 2 PM, Round 3 — 11th September, 4:15 PM) focusing on Data Structures, System Design, and Amazon Leadership Principles. Final outcome: Pending.",
+    "tips": [
+      "Structure all behavioral answers using the STAR format (Situation, Task, Action, Result) with quantified business impact.",
+      "Clarify ambiguous requirements upfront and discuss multiple trade-offs before writing a single line of code.",
+      "Amazon Bar Raiser evaluates team culture fit and ownership; never blame colleagues or past management."
+    ],
+    "leadership_principles": [],
+    "full_text": "# Amazon SDE-1 Interview Experience\r\n\r\n**Qualifications:**\r\n\r\n* 2026 graduate, Tier 2 college\r\n* 6 months Intern + 2 months FTE\r\n* LeetCode Max Rating: 2038\r\n\r\nI gave my OA on **2nd August 2026**. It had one basic DSA question, a codebase bug-solving question, and a work simulation.\r\n\r\nOn **4th August**, I received an email from the recruiter saying that interviews would be scheduled between 8th–18th August and asked me to be available on 13th August. After that, I didn't receive any update, so I assumed the process was over.\r\n\r\nThen, on **26th August**, I received a call for an interview on **11th September** at the Amazon Bangalore office.\r\n\r\n**Round 1 — 11th September, 11 AM**\r\n\r\nStarted with questions about my projects and the work I was currently doing. There were several cross-questions, including questions about the table/database structure of my project.\r\n\r\n**DSA:** Find all active/reachable nodes in a graph.\r\n\r\nFollow-up: If there are two connected components, find the nodes/edges that need to be added to make the graph connected.\r\n\r\nI was able to solve both the main question and the follow-up.\r\n\r\n**Leadership Principles:** Tell me about a time when you had to implement something challenging.\r\n\r\nAfter the round, the recruiter informed me that my second round was scheduled after lunch.\r\n\r\n**Round 2 — 11th September, 2 PM**\r\n\r\n**LLD:** Parking ticketing/receipt system.\r\n\r\nI designed the basic system and was asked to add some new functionality. I was able to handle a couple of follow-ups, but I missed considering peak and non-peak hour pricing.\r\n\r\nI was told that the remaining round would be online, but before leaving the office, I was informed that the third round was already scheduled.\r\n\r\n**Round 3 — 11th September, 4:15 PM**\r\n\r\n**GenAI questions:**\r\n\r\n* How do you use AI in your work?\r\n* Have you built something using AI?\r\n* How do you evaluate whether an AI response is correct?\r\n* How do you ensure the output is reliable?\r\n\r\n**Leadership Principles:**\r\n\r\n* What is the most complex problem you have worked on?\r\n* Why was it complex?\r\n* Was it mainly because you were unfamiliar with the technology/stack?\r\n\r\nAt the end, I was told that the recruitment team would get back to me within a week.\r\n\r\nI haven't received any update yet, so I don't know the final outcome.\r\n\r\nThat's it from my side. I wanted to share my experience because LeetCode Discuss posts helped me a lot during my preparation. Hopefully, this helps someone else preparing for Amazon.\r\n\r\nAll the best!\r\n"
+  },
+  {
+    "id": 8524816,
+    "title": "Amazon SDE-1 | Interview Loop Completed",
+    "role": "SDE-1",
+    "location": "India",
+    "outcome": "Pending",
+    "post_date": "2026-09-16",
+    "interview_date": "September 2026",
+    "url": "https://leetcode.com/discuss/post/8524816/",
+    "author": "Anonymous User",
+    "votes": 0,
+    "views": 138,
+    "tags": [
+      "Amazon",
+      "Career",
+      "interview experience",
+      "Interview",
+      "amazon sde1",
+      "Interview stages",
+      "SDE-1",
+      "Interview Experience"
+    ],
+    "rounds": [
+      {
+        "round_name": "Round 1: Online Assessment / Phone Screen",
+        "questions": [
+          {
+            "name": "Amazon Core Problem Solving & DSA Assessment",
+            "leetcode_equivalent": "LeetCode Pattern",
+            "difficulty": "Medium",
+            "category": "Algorithms & Problem Solving",
+            "description": "Core data structure & algorithm problem covering candidate competencies.",
+            "code_snippet": ""
+          }
+        ],
+        "details": "For people who have recently completed the full Amazon SDE-1 interview loop, how long did it take to hear back with the final decision?"
+      },
+      {
+        "round_name": "Round 2: Technical Assessment",
+        "questions": [
+          {
+            "name": "Technical Problem Solving & LP Discussion",
+            "leetcode_equivalent": "",
+            "difficulty": "Medium",
+            "category": "Data Structures / LP",
+            "description": "Questions discussed in Round 2: Technical Assessment",
+            "code_snippet": ""
+          }
+        ],
+        "details": "Also, if there are any Amazon employees/recruiters/hiring team members here, what is the usual timeline after the final round/debrief?"
+      },
+      {
+        "round_name": "Round 3: Technical Assessment",
+        "questions": [
+          {
+            "name": "Technical Problem Solving & LP Discussion",
+            "leetcode_equivalent": "",
+            "difficulty": "Medium",
+            "category": "Data Structures / LP",
+            "description": "Questions discussed in Round 3: Technical Assessment",
+            "code_snippet": ""
+          }
+        ],
+        "details": "Would really appreciate hearing about recent experiences, especially for India roles. Thanks!"
+      }
+    ],
+    "summary": "Amazon interview experience for SDE-1 at India. The candidate went through 3 primary evaluation stages (Round 1: Online Assessment / Phone Screen, Round 2: Technical Assessment, Round 3: Technical Assessment) focusing on Data Structures, System Design, and Amazon Leadership Principles. Final outcome: Pending.",
+    "tips": [
+      "Structure all behavioral answers using the STAR format (Situation, Task, Action, Result) with quantified business impact.",
+      "Clarify ambiguous requirements upfront and discuss multiple trade-offs before writing a single line of code.",
+      "Amazon Bar Raiser evaluates team culture fit and ownership; never blame colleagues or past management."
+    ],
+    "leadership_principles": [],
+    "full_text": "For people who have recently completed the full Amazon SDE-1 interview loop, how long did it take to hear back with the final decision?\n\nAlso, if there are any Amazon employees/recruiters/hiring team members here, what is the usual timeline after the final round/debrief?\n\nWould really appreciate hearing about recent experiences, especially for India roles. Thanks!"
+  },
+  {
+    "id": 8524405,
+    "title": "AMAZON SDE 2 (L5) | SPAIN | 9 YOE",
+    "role": "SDE-2",
+    "location": "USA",
+    "outcome": "Pending",
+    "post_date": "2026-09-16",
+    "interview_date": "September 2026",
+    "url": "https://leetcode.com/discuss/post/8524405/",
+    "author": "Anonymous User",
+    "votes": 0,
+    "views": 397,
+    "tags": [
+      "Amazon",
+      "Interview",
+      "SDE-2",
+      "Interview Experience"
+    ],
+    "rounds": [
+      {
+        "round_name": "Round 3 : DSA and Leadership Principle",
+        "questions": [
+          {
+            "name": "LFU Cache",
+            "leetcode_equivalent": "LeetCode 460",
+            "difficulty": "Hard",
+            "category": "LLD / Concurrency",
+            "description": "Target problem identified in candidate interview loop: LFU Cache",
+            "code_snippet": ""
+          }
+        ],
+        "details": "This round started with Leadership principles and behavioral questions lasted 30 mins and remaining 30 mins I was asked a DSA Problem which was a variation of LFU cache"
+      },
+      {
+        "round_name": "Round 4 : HLD and Leadership principles",
+        "questions": [
+          {
+            "name": "Technical Problem Solving & LP Discussion",
+            "leetcode_equivalent": "",
+            "difficulty": "Medium",
+            "category": "Data Structures / LP",
+            "description": "Questions discussed in Round 4 : HLD and Leadership principles",
+            "code_snippet": ""
+          }
+        ],
+        "details": "For first 30 mins were spent on leadership principles.\n\nAfter that I was given a HLD problem\n\n*Sensor devices are evenly distrubuted across a continent which emit temparature information. Design a system that creates heatmap of latest temperatures and also allows users to query for historical data*\n\n**Previous 2 rounds experience:** https://leetcode.com/discuss/post/8513742/amazon-sde-2-l5-spain-by-anonymous_user-vs2p/"
+      }
+    ],
+    "summary": "Amazon interview experience for SDE-2 at USA. The candidate went through 2 primary evaluation stages (Round 3 : DSA and Leadership Principle, Round 4 : HLD and Leadership principles) focusing on Data Structures, System Design, and Amazon Leadership Principles. Final outcome: Pending.",
+    "tips": [
+      "Structure all behavioral answers using the STAR format (Situation, Task, Action, Result) with quantified business impact.",
+      "Clarify ambiguous requirements upfront and discuss multiple trade-offs before writing a single line of code.",
+      "Amazon Bar Raiser evaluates team culture fit and ownership; never blame colleagues or past management."
+    ],
+    "leadership_principles": [],
+    "full_text": "Completed Interview loop today.\r\nHad 2 final loop rounds, first 2 rounds happened last week.\r\n\r\n**Round 3 : DSA and Leadership Principle**\r\n\r\nThis round started with Leadership principles and behavioral questions lasted 30 mins and remaining 30 mins I was asked a DSA Problem which was a variation of LFU cache\r\n\r\n**Round 4 : HLD and Leadership principles**\r\n\r\nFor first 30 mins were spent on leadership principles.\r\n\r\nAfter that I was given a HLD problem\r\n\r\n*Sensor devices are evenly distrubuted across a continent which emit temparature information. Design a system that creates heatmap of latest temperatures and also allows users to query for historical data*\r\n\r\n**Previous 2 rounds experience:** https://leetcode.com/discuss/post/8513742/amazon-sde-2-l5-spain-by-anonymous_user-vs2p/"
+  },
+  {
+    "id": 8524215,
+    "title": "Amazon SDE2 London Opportunity",
+    "role": "SDE-2",
+    "location": "London, UK",
+    "outcome": "Pending",
+    "post_date": "2026-09-16",
+    "interview_date": "September 2026",
+    "url": "https://leetcode.com/discuss/post/8524215/",
+    "author": "Anonymous User",
+    "votes": 0,
+    "views": 228,
+    "tags": [
+      "Amazon",
+      "Interview",
+      "SDE-2",
+      "Interview Experience"
+    ],
+    "rounds": [
+      {
+        "round_name": "Round 1: Online Assessment / Phone Screen",
+        "questions": [
+          {
+            "name": "Amazon Core Problem Solving & DSA Assessment",
+            "leetcode_equivalent": "LeetCode Pattern",
+            "difficulty": "Medium",
+            "category": "Algorithms & Problem Solving",
+            "description": "Core data structure & algorithm problem covering candidate competencies.",
+            "code_snippet": ""
+          }
+        ],
+        "details": "I have received an Interview opportunity for Software Development Engineer @Amazon London.\r\n\r\nFirst round is Techinical Phone Screen. If someone who has recently interviewed for Amazon London, can you let me know what to expect and what will be the difficulty of DSA questions ? Are there any must do problems for Amazon London ?"
+      }
+    ],
+    "summary": "Amazon interview experience for SDE-2 at London, UK. The candidate went through 1 primary evaluation stages (Round 1: Online Assessment / Phone Screen) focusing on Data Structures, System Design, and Amazon Leadership Principles. Final outcome: Pending.",
+    "tips": [
+      "Structure all behavioral answers using the STAR format (Situation, Task, Action, Result) with quantified business impact.",
+      "Clarify ambiguous requirements upfront and discuss multiple trade-offs before writing a single line of code.",
+      "Amazon Bar Raiser evaluates team culture fit and ownership; never blame colleagues or past management."
+    ],
+    "leadership_principles": [],
+    "full_text": "I have received an Interview opportunity for Software Development Engineer @Amazon London.\r\n\r\nFirst round is Techinical Phone Screen. If someone who has recently interviewed for Amazon London, can you let me know what to expect and what will be the difficulty of DSA questions ? Are there any must do problems for Amazon London ?"
+  },
+  {
     "id": 8523912,
     "title": "Amazon SDE-2 Interview Experience",
     "role": "SDE-2",
