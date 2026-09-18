@@ -1,5 +1,113 @@
 [
   {
+    "id": 8527332,
+    "title": "Amazon SDE1 India 2026 – 4-Round Loop Experience | Final Result Timeline & Chances?",
+    "role": "SDE-1",
+    "location": "India",
+    "outcome": "Pending",
+    "post_date": "2026-09-18",
+    "interview_date": "September 2026",
+    "url": "https://leetcode.com/discuss/post/8527332/",
+    "author": "Anonymous User",
+    "votes": 0,
+    "views": 84,
+    "tags": [
+      "Amazon",
+      "Career",
+      "interview experience",
+      "Interview",
+      "amazon sde1",
+      "Interview stages",
+      "SDE-1",
+      "Interview Experience"
+    ],
+    "rounds": [
+      {
+        "round_name": "Round 1:** **DSA + Leadership Principles**, taken by **2 SDEs**. DSA included a **Stock Span / Stack** problem and a **Graph BFS + Topological Sort / DAG dependency-based minimum-time problem**. There were also LP questions. **I felt this round went quite well.",
+        "questions": [
+          {
+            "name": "Amazon Core Problem Solving & DSA Assessment",
+            "leetcode_equivalent": "LeetCode Pattern",
+            "difficulty": "Medium",
+            "category": "Algorithms & Problem Solving",
+            "description": "Core data structure & algorithm problem covering candidate competencies.",
+            "code_snippet": ""
+          }
+        ],
+        "details": ""
+      },
+      {
+        "round_name": "Round 3 (HM Round):** **Software Development Manager**, mainly **resume/project deep dive + a simple coding/problem-solving question** for team fitment. **This also went quite well.",
+        "questions": [
+          {
+            "name": "Technical Problem Solving & LP Discussion",
+            "leetcode_equivalent": "",
+            "difficulty": "Medium",
+            "category": "Data Structures / LP",
+            "description": "Questions discussed in Round 3 (HM Round):** **Software Development Manager**, mainly **resume/project deep dive + a simple coding/problem-solving question** for team fitment. **This also went quite well.",
+            "code_snippet": ""
+          }
+        ],
+        "details": "After the onsite, my recruiter told me that my **next rounds would be online**.\n\n**Aug x+5 – Virtual Round R2**\n\nI was asked **2 DSA + 2 project/resume questions**. I solved both DSA problems and handled the **follow-ups, TC/SC, dry runs and alternative approaches**.\n\nQ1 was **Queue using 2 Stacks**, where the interviewer focused on **multiple approach discussions** and asked me to implement one of the approaches we discussed.\n\nQ2 was a **non-standard heap/greedy problem** (I don’t remember the exact problem now).\n\nIn the second DSA problem, I had **a few implementation mistakes in the first attempt**, but the interviewer only asked me to check once, and **I identified and corrected them myself**. Around **55 minutes were spent mainly on DSA**, followed by project-based questions, where I felt **slightly less confident on 1–2 questions**.\n\n**Sep x+25 – Bar Raiser (BR)**\n\nThe BR was mostly **behavioral/Leadership Principles**, along with **technical questions related to my internship** and a coding question based on a **variant of the Celebrity Problem**. **Overall, I felt this round went well.**\n\nSo my complete sequence was:\n\n**Aug x: R1 + R3 → Aug x+5: R2 → Sep x+25: BR**\n\nI’m now"
+      }
+    ],
+    "summary": "Amazon interview experience for SDE-1 at India. The candidate went through 2 primary evaluation stages (Round 1:** **DSA + Leadership Principles**, taken by **2 SDEs**. DSA included a **Stock Span / Stack** problem and a **Graph BFS + Topological Sort / DAG dependency-based minimum-time problem**. There were also LP questions. **I felt this round went quite well., Round 3 (HM Round):** **Software Development Manager**, mainly **resume/project deep dive + a simple coding/problem-solving question** for team fitment. **This also went quite well.) focusing on Data Structures, System Design, and Amazon Leadership Principles. Final outcome: Pending.",
+    "tips": [
+      "Structure all behavioral answers using the STAR format (Situation, Task, Action, Result) with quantified business impact.",
+      "Clarify ambiguous requirements upfront and discuss multiple trade-offs before writing a single line of code.",
+      "Amazon Bar Raiser evaluates team culture fit and ownership; never blame colleagues or past management."
+    ],
+    "leadership_principles": [],
+    "full_text": "Hi everyone,\n\nI’m a **2026 graduate** (from Tier 1 engineering institute, having 6 month intership experience at product based company)going through the **Amazon SDE1 hiring process in India through an AUTA hiring drive**. I’ve now completed **all 4 rounds** and wanted to share my experience and get some perspective from people who have gone through the process recently.\n\n# My process so far( x being starting date)\n\n**Aug x – Onsite**\n\n**Round 1:** **DSA + Leadership Principles**, taken by **2 SDEs**. DSA included a **Stock Span / Stack** problem and a **Graph BFS + Topological Sort / DAG dependency-based minimum-time problem**. There were also LP questions. **I felt this round went quite well.**\n\n**Round 3 (HM Round):** **Software Development Manager**, mainly **resume/project deep dive + a simple coding/problem-solving question** for team fitment. **This also went quite well.**\n\nAfter the onsite, my recruiter told me that my **next rounds would be online**.\n\n**Aug x+5 – Virtual Round R2**\n\nI was asked **2 DSA + 2 project/resume questions**. I solved both DSA problems and handled the **follow-ups, TC/SC, dry runs and alternative approaches**.\n\nQ1 was **Queue using 2 Stacks**, where the interviewer focused on **multiple approach discussions** and asked me to implement one of the approaches we discussed.\n\nQ2 was a **non-standard heap/greedy problem** (I don’t remember the exact problem now).\n\nIn the second DSA problem, I had **a few implementation mistakes in the first attempt**, but the interviewer only asked me to check once, and **I identified and corrected them myself**. Around **55 minutes were spent mainly on DSA**, followed by project-based questions, where I felt **slightly less confident on 1–2 questions**.\n\n**Sep x+25 – Bar Raiser (BR)**\n\nThe BR was mostly **behavioral/Leadership Principles**, along with **technical questions related to my internship** and a coding question based on a **variant of the Celebrity Problem**. **Overall, I felt this round went well.**\n\nSo my complete sequence was:\n\n**Aug x: R1 + R3 → Aug x+5: R2 → Sep x+25: BR**\n\nI’m now waiting for the **final outcome**.\n\n\n**How long does it take to receive the final result after the BR/debrief? And based on the overall experience above, how would you assess my chances of clearing the loop?**\n\nWould really appreciate any recent experiences. Thanks!\n"
+  },
+  {
+    "id": 8526277,
+    "title": "Amazon SysDev I OA vs SDE applications need advice",
+    "role": "Systems Development Engineer",
+    "location": "USA",
+    "outcome": "Pending",
+    "post_date": "2026-09-17",
+    "interview_date": "September 2026",
+    "url": "https://leetcode.com/discuss/post/8526277/",
+    "author": "satyam47",
+    "votes": 0,
+    "views": 121,
+    "tags": [
+      "Amazon",
+      "SDE",
+      "Interview",
+      "interview-prep",
+      "Interview stages",
+      "InterviewPreparation",
+      "Systems Development Engineer",
+      "Interview Experience"
+    ],
+    "rounds": [
+      {
+        "round_name": "Round 1: Online Assessment / Phone Screen",
+        "questions": [
+          {
+            "name": "Amazon Core Problem Solving & DSA Assessment",
+            "leetcode_equivalent": "LeetCode Pattern",
+            "difficulty": "Medium",
+            "category": "Algorithms & Problem Solving",
+            "description": "Core data structure & algorithm problem covering candidate competencies.",
+            "code_snippet": ""
+          }
+        ],
+        "details": "I've been applying to Amazon for the last 3 months, mainly for **SDE I** roles, along with a few **Systems Development Engineer I** roles (I have **2**yrs of exp).\r\n\r\nRecently, I received a **SysDev I Online Assessment**, and a recruiter also emailed me asking me to complete it ASAP.\r\n\r\nMy preference is **SDE**, so I'm trying to understand how Amazon handles multiple applications/assessments.\r\n\r\nMy questions:\r\n\r\n1. If I take the SysDev I OA, what happens to my existing active SDE applications? Can they remain active, or can they automatically become \"Not under consideration\"?\r\n\r\n2. If I fail the SysDev OA, is there a cooldown/reapplication period before I can be considered for another Amazon role or SDE OA? If yes, how long?\r\n\r\n3. If I withdraw the SysDev application before taking the OA, would that avoid any cooldown/reapplication restriction?\r\n\r\n4. If I withdraw SysDev before taking the OA, can I still receive an SDE OA / be considered for SDE roles during that period?\r\n\r\n5. Has anyone here actually been in a similar situation SysDev OA + existing SDE applications at the same time? What happened to your applications?\r\n\r\nI'm trying to decide whether I should proceed with the SysDe"
+      }
+    ],
+    "summary": "Amazon interview experience for Systems Development Engineer at USA. The candidate went through 1 primary evaluation stages (Round 1: Online Assessment / Phone Screen) focusing on Data Structures, System Design, and Amazon Leadership Principles. Final outcome: Pending.",
+    "tips": [
+      "Structure all behavioral answers using the STAR format (Situation, Task, Action, Result) with quantified business impact.",
+      "Clarify ambiguous requirements upfront and discuss multiple trade-offs before writing a single line of code.",
+      "Amazon Bar Raiser evaluates team culture fit and ownership; never blame colleagues or past management."
+    ],
+    "leadership_principles": [],
+    "full_text": "I've been applying to Amazon for the last 3 months, mainly for **SDE I** roles, along with a few **Systems Development Engineer I** roles (I have **2**yrs of exp).\r\n\r\nRecently, I received a **SysDev I Online Assessment**, and a recruiter also emailed me asking me to complete it ASAP.\r\n\r\nMy preference is **SDE**, so I'm trying to understand how Amazon handles multiple applications/assessments.\r\n\r\nMy questions:\r\n\r\n1. If I take the SysDev I OA, what happens to my existing active SDE applications? Can they remain active, or can they automatically become \"Not under consideration\"?\r\n\r\n2. If I fail the SysDev OA, is there a cooldown/reapplication period before I can be considered for another Amazon role or SDE OA? If yes, how long?\r\n\r\n3. If I withdraw the SysDev application before taking the OA, would that avoid any cooldown/reapplication restriction?\r\n\r\n4. If I withdraw SysDev before taking the OA, can I still receive an SDE OA / be considered for SDE roles during that period?\r\n\r\n5. Has anyone here actually been in a similar situation SysDev OA + existing SDE applications at the same time? What happened to your applications?\r\n\r\nI'm trying to decide whether I should proceed with the SysDev OA or withdraw it.\r\n\r\nAlso I have emailed recruiter but I haven't received any response.\r\n\r\nThanks!"
+  },
+  {
     "id": 8525216,
     "title": "Amazon SDE-I | Interview Experience 2026",
     "role": "SDE-1",
