@@ -1,5 +1,401 @@
 [
   {
+    "id": 8528863,
+    "title": "Amazon|| SDE-2 || SELECTED",
+    "role": "SDE-2",
+    "location": "India",
+    "outcome": "Offer",
+    "post_date": "2026-09-19",
+    "interview_date": "September 2026",
+    "url": "https://leetcode.com/discuss/post/8528863/",
+    "author": "Anonymous User",
+    "votes": 0,
+    "views": 286,
+    "tags": [
+      "Amazon",
+      "Compensation",
+      "Interview",
+      "SDE2",
+      "SDE-2",
+      "Interview Experience"
+    ],
+    "rounds": [
+      {
+        "round_name": "Round 1: Online Assessment / Phone Screen",
+        "questions": [
+          {
+            "name": "Amazon Core Problem Solving & DSA Assessment",
+            "leetcode_equivalent": "LeetCode Pattern",
+            "difficulty": "Medium",
+            "category": "Algorithms & Problem Solving",
+            "description": "Core data structure & algorithm problem covering candidate competencies.",
+            "code_snippet": ""
+          }
+        ],
+        "details": "My Education: B.Tech (Tier 3 College)\nExperience: 3 years 5 months\nPrevious Company: PocketFM (SDE2)"
+      },
+      {
+        "round_name": "Round 2: Technical Assessment",
+        "questions": [
+          {
+            "name": "Technical Problem Solving & LP Discussion",
+            "leetcode_equivalent": "",
+            "difficulty": "Medium",
+            "category": "Data Structures / LP",
+            "description": "Questions discussed in Round 2: Technical Assessment",
+            "code_snippet": ""
+          }
+        ],
+        "details": "Company: Amazon\nRole: Software Development Engineer II (SDE II, L5)\nLocation: Hyderabad, India\nOffer Received: Yes"
+      },
+      {
+        "round_name": "Round 3: Technical Assessment",
+        "questions": [
+          {
+            "name": "Technical Problem Solving & LP Discussion",
+            "leetcode_equivalent": "",
+            "difficulty": "Medium",
+            "category": "Data Structures / LP",
+            "description": "Questions discussed in Round 3: Technical Assessment",
+            "code_snippet": ""
+          }
+        ],
+        "details": "Got referred by someone on boost my referral app (No promotion.)"
+      },
+      {
+        "round_name": "Round 4: Technical Assessment",
+        "questions": [
+          {
+            "name": "Technical Problem Solving & LP Discussion",
+            "leetcode_equivalent": "",
+            "difficulty": "Medium",
+            "category": "Data Structures / LP",
+            "description": "Questions discussed in Round 4: Technical Assessment",
+            "code_snippet": ""
+          }
+        ],
+        "details": "Compensation\nCurrent CTC: ~₹64,00,000 (First Year, including relocation)\nBase Salary: ₹43,00,000 per annum"
+      }
+    ],
+    "summary": "Amazon interview experience for SDE-2 at India. The candidate went through 4 primary evaluation stages (Round 1: Online Assessment / Phone Screen, Round 2: Technical Assessment, Round 3: Technical Assessment) focusing on Data Structures, System Design, and Amazon Leadership Principles. Final outcome: Offer.",
+    "tips": [
+      "Structure all behavioral answers using the STAR format (Situation, Task, Action, Result) with quantified business impact.",
+      "Clarify ambiguous requirements upfront and discuss multiple trade-offs before writing a single line of code.",
+      "Amazon Bar Raiser evaluates team culture fit and ownership; never blame colleagues or past management."
+    ],
+    "leadership_principles": [],
+    "full_text": "My Education: B.Tech (Tier 3 College)\nExperience: 3 years 5 months\nPrevious Company: PocketFM (SDE2)\n\nCompany: Amazon\nRole: Software Development Engineer II (SDE II, L5)\nLocation: Hyderabad, India\nOffer Received: Yes\n\nGot referred by someone on boost my referral app (No promotion.)\n\nCompensation\nCurrent CTC: ~₹64,00,000 (First Year, including relocation)\nBase Salary: ₹43,00,000 per annum\n\nPerformance Bonus:\nSigning Bonus – ₹18,00,000 (Year 1) | ₹13,00,000 (Year 2)\n\nRSUs:\n200 RSUs over 4 years (Vesting: 5% / 15% / 40% / 40%)\n\nEstimated Total Annual Compensation:\n~₹64,00,000 (First Year, including relocation)\n\nPerks\n• Relocation Bonus: ₹1,50,000\n\nWill share my interview experience link here soon."
+  },
+  {
+    "id": 8528370,
+    "title": "Amazon Phone Screen Round | Rejected",
+    "role": "Software Development Engineer",
+    "location": "USA",
+    "outcome": "Rejected",
+    "post_date": "2026-09-18",
+    "interview_date": "September 2026",
+    "url": "https://leetcode.com/discuss/post/8528370/",
+    "author": "Anonymous User",
+    "votes": 0,
+    "views": 274,
+    "tags": [
+      "Amazon",
+      "Phone Screening",
+      "Interview",
+      "SDE2",
+      "Software Development Engineer",
+      "Interview Experience"
+    ],
+    "rounds": [
+      {
+        "round_name": "Round 1: Online Assessment / Phone Screen",
+        "questions": [
+          {
+            "name": "Amazon Core Problem Solving & DSA Assessment",
+            "leetcode_equivalent": "LeetCode Pattern",
+            "difficulty": "Medium",
+            "category": "Algorithms & Problem Solving",
+            "description": "Core data structure & algorithm problem covering candidate competencies.",
+            "code_snippet": ""
+          }
+        ],
+        "details": "1. DSA Question - \nGiven an array, the cost of adding two numbers is addition of two numbers, what is the minimum cost of adding all numbers."
+      },
+      {
+        "round_name": "Round 2: Technical Assessment",
+        "questions": [
+          {
+            "name": "Technical Problem Solving & LP Discussion",
+            "leetcode_equivalent": "",
+            "difficulty": "Medium",
+            "category": "Data Structures / LP",
+            "description": "Questions discussed in Round 2: Technical Assessment",
+            "code_snippet": ""
+          }
+        ],
+        "details": "Solved within 10 minutes with running code."
+      },
+      {
+        "round_name": "Round 3: Technical Assessment",
+        "questions": [
+          {
+            "name": "Technical Problem Solving & LP Discussion",
+            "leetcode_equivalent": "",
+            "difficulty": "Medium",
+            "category": "Data Structures / LP",
+            "description": "Questions discussed in Round 3: Technical Assessment",
+            "code_snippet": ""
+          }
+        ],
+        "details": "2.HLD \nDesign an Employee Directory for Amazon where employees can search for other employees\nand view their profile and organizational hierarchy.\nRequirements\nSearch by name/email/employee ID\nView employee profile\nView manager/direct reports\nAssume ~1M employees\nRead-heavy\nSearch should be fast"
+      },
+      {
+        "round_name": "Round 4: Technical Assessment",
+        "questions": [
+          {
+            "name": "Technical Problem Solving & LP Discussion",
+            "leetcode_equivalent": "",
+            "difficulty": "Medium",
+            "category": "Data Structures / LP",
+            "description": "Questions discussed in Round 4: Technical Assessment",
+            "code_snippet": ""
+          }
+        ],
+        "details": "Created the HLD on Exacildraw but there was some back and forth during api design and the Partition key for the dynamodb schema I told. Had very less time for the follow ups."
+      }
+    ],
+    "summary": "Amazon interview experience for Software Development Engineer at USA. The candidate went through 4 primary evaluation stages (Round 1: Online Assessment / Phone Screen, Round 2: Technical Assessment, Round 3: Technical Assessment) focusing on Data Structures, System Design, and Amazon Leadership Principles. Final outcome: Rejected.",
+    "tips": [
+      "Structure all behavioral answers using the STAR format (Situation, Task, Action, Result) with quantified business impact.",
+      "Clarify ambiguous requirements upfront and discuss multiple trade-offs before writing a single line of code.",
+      "Amazon Bar Raiser evaluates team culture fit and ownership; never blame colleagues or past management."
+    ],
+    "leadership_principles": [],
+    "full_text": "1. DSA Question - \nGiven an array, the cost of adding two numbers is addition of two numbers, what is the minimum cost of adding all numbers.\n\nSolved within 10 minutes with running code.\n\n\n2.HLD \nDesign an Employee Directory for Amazon where employees can search for other employees\nand view their profile and organizational hierarchy.\nRequirements\nSearch by name/email/employee ID\nView employee profile\nView manager/direct reports\nAssume ~1M employees\nRead-heavy\nSearch should be fast\n\nFollow ups:\n1.what if a person leaves\n\n2.get all the reportees under a person\n\n\nCreated the HLD on Exacildraw but there was some back and forth during api design and the Partition key for the dynamodb schema I told. Had very less time for the follow ups.\n\n\nGot rejection next day itself. I was not expecting the rejection, still unable to understand what were they expecting."
+  },
+  {
+    "id": 8528172,
+    "title": "Amazon SDE Intern OA Round - Looking For Preparation Advice",
+    "role": "SDE-1",
+    "location": "USA",
+    "outcome": "Pending",
+    "post_date": "2026-09-18",
+    "interview_date": "September 2026",
+    "url": "https://leetcode.com/discuss/post/8528172/",
+    "author": "AashiSrivastava411",
+    "votes": 0,
+    "views": 96,
+    "tags": [
+      "Amazon",
+      "Career",
+      "Online Assessment",
+      "Interview",
+      "amazon_OA",
+      "SDE-1",
+      "Interview Experience"
+    ],
+    "rounds": [
+      {
+        "round_name": "Round 1: Online Assessment / Phone Screen",
+        "questions": [
+          {
+            "name": "Amazon Core Problem Solving & DSA Assessment",
+            "leetcode_equivalent": "LeetCode Pattern",
+            "difficulty": "Medium",
+            "category": "Algorithms & Problem Solving",
+            "description": "Core data structure & algorithm problem covering candidate competencies.",
+            "code_snippet": ""
+          }
+        ],
+        "details": "I am a 2nd year B.tech student and I recently appeared for an Amazon SDE Intern Online Assessment and wanted to share my experience and get some advice from people who have gone through similar OAs.\r\nThe assessment had multiple sections, including:\r\n**Coding\r\nFull-stack debugging\r\nWork simulation\r\nWork-style/Leadership Principles-related questions**\r\n**Coding**:\r\nThe coding question was quite a reality check for me. I initially approached it with a sliding-window mindset, but that wasn't the right direction. I was able to pass some test cases but couldn't solve the problem completely.\r\nI realized that my main gap wasn't just coding it was recognizing the underlying pattern and choosing the appropriate approach. I'm still in the process of completing my DSA preparation, so this experience showed me where I need to improve.\r\n**Full-stack debugging**:\r\nThis was particularly interesting because I was given an unfamiliar codebase and had to debug issues in it. It made me realize that being able to read and debug an existing project is a very different skill from building projects from scratch.\r\n\r\nI would especially like advice from people who have practiced debugging unfamiliar reposito"
+      }
+    ],
+    "summary": "Amazon interview experience for SDE-1 at USA. The candidate went through 1 primary evaluation stages (Round 1: Online Assessment / Phone Screen) focusing on Data Structures, System Design, and Amazon Leadership Principles. Final outcome: Pending.",
+    "tips": [
+      "from people who have gone through similar OAs",
+      "The assessment had multiple sections, including:",
+      "Work-style/Leadership Principles-related questions",
+      "Full-stack debugging**:",
+      "I would especially like advice from people who have practiced debugging unfamiliar repositories/codebases. What kind of projects or exercises helped you improve this skill?"
+    ],
+    "leadership_principles": [],
+    "full_text": "I am a 2nd year B.tech student and I recently appeared for an Amazon SDE Intern Online Assessment and wanted to share my experience and get some advice from people who have gone through similar OAs.\r\nThe assessment had multiple sections, including:\r\n**Coding\r\nFull-stack debugging\r\nWork simulation\r\nWork-style/Leadership Principles-related questions**\r\n**Coding**:\r\nThe coding question was quite a reality check for me. I initially approached it with a sliding-window mindset, but that wasn't the right direction. I was able to pass some test cases but couldn't solve the problem completely.\r\nI realized that my main gap wasn't just coding it was recognizing the underlying pattern and choosing the appropriate approach. I'm still in the process of completing my DSA preparation, so this experience showed me where I need to improve.\r\n**Full-stack debugging**:\r\nThis was particularly interesting because I was given an unfamiliar codebase and had to debug issues in it. It made me realize that being able to read and debug an existing project is a very different skill from building projects from scratch.\r\n\r\nI would especially like advice from people who have practiced debugging unfamiliar repositories/codebases. What kind of projects or exercises helped you improve this skill?\r\nFor DSA  I'm planning to focus more on:\r\nPattern recognition\r\nGreedy and other common problem-solving techniques\r\nSolving problems under time constraints\r\nUnderstanding why a particular approach works instead of just memorizing patterns\r\nIf you've appeared for Amazon/other SDE internship OAs, I'd really appreciate advice on how you prepared for the coding and debugging sections.\r\nThanks in advance!"
+  },
+  {
+    "id": 8528072,
+    "title": "Inventory Allocation with Bids and Round-Robin Amazon OA",
+    "role": "Software Development Engineer",
+    "location": "USA",
+    "outcome": "Pending",
+    "post_date": "2026-09-18",
+    "interview_date": "September 2026",
+    "url": "https://leetcode.com/discuss/post/8528072/",
+    "author": "Anonymous User",
+    "votes": 0,
+    "views": 80,
+    "tags": [
+      "Amazon",
+      "Online Assessment",
+      "Interview",
+      "Software Development Engineer",
+      "Interview Experience"
+    ],
+    "rounds": [
+      {
+        "round_name": "Round 1: Online Assessment / Phone Screen",
+        "questions": [
+          {
+            "name": "Amazon Core Problem Solving & DSA Assessment",
+            "leetcode_equivalent": "LeetCode Pattern",
+            "difficulty": "Medium",
+            "category": "Algorithms & Problem Solving",
+            "description": "Core data structure & algorithm problem covering candidate competencies.",
+            "code_snippet": ""
+          }
+        ],
+        "details": "You are given an integer totalInventory representing the total number of items available."
+      },
+      {
+        "round_name": "Round 2: Technical Assessment",
+        "questions": [
+          {
+            "name": "Technical Problem Solving & LP Discussion",
+            "leetcode_equivalent": "",
+            "difficulty": "Medium",
+            "category": "Data Structures / LP",
+            "description": "Questions discussed in Round 2: Technical Assessment",
+            "code_snippet": ""
+          }
+        ],
+        "details": "You are also given a 2D array requests, where each request is represented as:"
+      },
+      {
+        "round_name": "Round 3: Technical Assessment",
+        "questions": [
+          {
+            "name": "Technical Problem Solving & LP Discussion",
+            "leetcode_equivalent": "",
+            "difficulty": "Medium",
+            "category": "Data Structures / LP",
+            "description": "Questions discussed in Round 3: Technical Assessment",
+            "code_snippet": ""
+          }
+        ],
+        "details": "[customerId, quantity, bidAmount, timestamp]"
+      },
+      {
+        "round_name": "Round 4: Technical Assessment",
+        "questions": [
+          {
+            "name": "Technical Problem Solving & LP Discussion",
+            "leetcode_equivalent": "",
+            "difficulty": "Medium",
+            "category": "Data Structures / LP",
+            "description": "Questions discussed in Round 4: Technical Assessment",
+            "code_snippet": ""
+          }
+        ],
+        "details": "customerId — unique ID of the customer.\nquantity — number of items requested by the customer.\nbidAmount — amount the customer is willing to pay for each item.\ntimestamp — time at which the request was placed. A smaller timestamp means the request was placed earlier.\nAllocation Rules\nCustomers with a higher bid amount have higher priority.\nCustomers with the same bid amount are served in increasing order of timestamp.\nWithin the same bid group, allocation happens in a round-robin manner:\nEach customer receives at most one item per round.\nA customer stops participating once their requested quantity has been fulfilled.\nContinue until either all requests in the bid group are fulfilled or the inventory runs out.\nOnce the inventory is exhausted, no customer from a lower bid group can receive an item.\nReturn the IDs of all customers who received zero items, sorted in ascending order.\nConstraints\n1 <= requests.length <= 10^4\n1 <= customerId, quantity, bidAmount, timestamp < 10^8\n1 <= totalInventory < 10^8"
+      }
+    ],
+    "summary": "Amazon interview experience for Software Development Engineer at USA. The candidate went through 4 primary evaluation stages (Round 1: Online Assessment / Phone Screen, Round 2: Technical Assessment, Round 3: Technical Assessment) focusing on Data Structures, System Design, and Amazon Leadership Principles. Final outcome: Pending.",
+    "tips": [
+      "Structure all behavioral answers using the STAR format (Situation, Task, Action, Result) with quantified business impact.",
+      "Clarify ambiguous requirements upfront and discuss multiple trade-offs before writing a single line of code.",
+      "Amazon Bar Raiser evaluates team culture fit and ownership; never blame colleagues or past management."
+    ],
+    "leadership_principles": [],
+    "full_text": "You are given an integer totalInventory representing the total number of items available.\n\nYou are also given a 2D array requests, where each request is represented as:\n\n[customerId, quantity, bidAmount, timestamp]\n\nwhere:\n\ncustomerId — unique ID of the customer.\nquantity — number of items requested by the customer.\nbidAmount — amount the customer is willing to pay for each item.\ntimestamp — time at which the request was placed. A smaller timestamp means the request was placed earlier.\nAllocation Rules\nCustomers with a higher bid amount have higher priority.\nCustomers with the same bid amount are served in increasing order of timestamp.\nWithin the same bid group, allocation happens in a round-robin manner:\nEach customer receives at most one item per round.\nA customer stops participating once their requested quantity has been fulfilled.\nContinue until either all requests in the bid group are fulfilled or the inventory runs out.\nOnce the inventory is exhausted, no customer from a lower bid group can receive an item.\nReturn the IDs of all customers who received zero items, sorted in ascending order.\nConstraints\n1 <= requests.length <= 10^4\n1 <= customerId, quantity, bidAmount, timestamp < 10^8\n1 <= totalInventory < 10^8\n\nExample 1\ntotalInventory = 3\n\nrequests = [\n    [1, 2, 5, 0],\n    [2, 1, 4, 2],\n    [3, 5, 4, 6]\n]\n\nAllocation:\n\nBid 5:\nCustomer 1 → 2 items\n\nRemaining inventory = 1\n\nBid 4:\nCustomer 2 (timestamp 2) → 1 item\nCustomer 3 (timestamp 6) → 0 items\n\nTherefore:\n\nOutput: [3]\n\n\nApproach\n\nThe important observation is that we only need to know which customers received at least one item, not the exact number of items each customer received.\n\nStep 1: Group customers by bid\n\nUse:\n\nmap<int, vector<Req>, greater<int>>\n\nThis automatically processes bid groups from highest to lowest.\n\nStep 2: Sort each bid group by timestamp\n\nFor customers with the same bid, sort them by increasing timestamp.\n\nStep 3: Check the total requested quantity of the group\n\nFor each bid group:\n\ntotalRequested = sum of all quantities in the group\n\nIf:\n\ntotalRequested <= remainingInventory\n\nthen the entire group can be fulfilled.\n\nTherefore, every customer in this group receives at least one item, so add all their IDs to a fulfilled set.\n\nThen:\n\nremainingInventory -= totalRequested\n\nand continue to the next bid group.\n\nStep 4: Handle the first partially fulfilled bid group\n\nIf:\n\ntotalRequested > remainingInventory\n\nthen this is the first bid group that cannot be completely fulfilled.\n\nAt this point, we only care about who can receive at least one item.\n\nLet:\nn = number of customers in this bid group\n\nIf:\n\nn <= remainingInventory\n\nthen every customer can receive at least one item.\n\nOtherwise, only the first remainingInventory customers in timestamp order can receive an item.\n\nAfter that, inventory is exhausted, so we can stop processing.\n\n```\n\n#include <bits/stdc++.h>\nusing namespace std;\n\nstruct Req {\n    int id;\n    int quantity;\n    int bid;\n    int time;\n};\n\nclass Solution {\npublic:\n    vector<int> getUnfulfilledCustomers(\n        vector<vector<int>> requests,\n        long long totalInventory\n    ) {\n        \n        // Group customers by bid in descending order\n        map<int, vector<Req>, greater<int>> groups;\n\n        for (auto& r : requests) {\n            groups[r[2]].push_back({\n                r[0],  // customerId\n                r[1],  // quantity\n                r[2],  // bid\n                r[3]   // timestamp\n            });\n        }\n\n        // Customers who received at least one item\n        unordered_set<int> fulfilled;\n\n        // Process highest bid first\n        for (auto& [bid, customers] : groups) {\n\n            if (totalInventory == 0)\n                break;\n\n            // Earlier timestamp gets priority\n            sort(customers.begin(), customers.end(),\n                [](const Req& a, const Req& b) {\n                    return a.time < b.time;\n                });\n\n            // Calculate total requested quantity\n            // for this bid group\n            long long totalRequested = 0;\n\n            for (auto& customer : customers) {\n                totalRequested += customer.quantity;\n            }\n\n            // Entire bid group can be fulfilled\n            if (totalRequested <= totalInventory) {\n\n                totalInventory -= totalRequested;\n\n                // Every customer received at least one item\n                for (auto& customer : customers) {\n                    fulfilled.insert(customer.id);\n                }\n            }\n\n            // This is the first partially fulfilled\n            // bid group\n            else {\n\n                // Only the first min(number of customers,\n                // remaining inventory) customers can\n                // receive at least one item.\n                long long canReceive =\n                    min((long long)customers.size(),\n                        totalInventory);\n\n                for (int i = 0; i < canReceive; i++) {\n                    fulfilled.insert(customers[i].id);\n                }\n\n                // Inventory is now exhausted\n                totalInventory = 0;\n\n                // Lower bid groups cannot receive anything\n                break;\n            }\n        }\n\n        // Find customers who received zero items\n        vector<int> answer;\n\n        for (auto& r : requests) {\n            if (fulfilled.find(r[0]) == fulfilled.end()) {\n                answer.push_back(r[0]);\n            }\n        }\n\n        // Return IDs in ascending order\n        sort(answer.begin(), answer.end());\n\n        return answer;\n    }\n};\n```"
+  },
+  {
+    "id": 8527513,
+    "title": "Amazon SDE-1 Chennai On-Campus OA Result – Job ID 10423461",
+    "role": "SDE-1",
+    "location": "India",
+    "outcome": "Rejected",
+    "post_date": "2026-09-18",
+    "interview_date": "September 2026",
+    "url": "https://leetcode.com/discuss/post/8527513/",
+    "author": "MADHUMITHA_T_V",
+    "votes": 0,
+    "views": 224,
+    "tags": [
+      "Amazon",
+      "Online Assessment",
+      "Interview",
+      "SDE-1",
+      "Interview Experience"
+    ],
+    "rounds": [
+      {
+        "round_name": "OA Date: September 2, 2026",
+        "questions": [
+          {
+            "name": "Amazon Core Problem Solving & DSA Assessment",
+            "leetcode_equivalent": "LeetCode Pattern",
+            "difficulty": "Medium",
+            "category": "Algorithms & Problem Solving",
+            "description": "Core data structure & algorithm problem covering candidate competencies.",
+            "code_snippet": ""
+          }
+        ],
+        "details": "Today: September 18, 2026\n\nMy placement coordinator told us that the OA result/shortlist will be communicated directly by Amazon via email.\n\nI haven't received any email from Amazon yet.\n\nFor anyone who participated in the same campus drive / same Job ID:\n\nHave you received the OA result or interview shortlist email?\nHas anyone received an interview call yet?\nDid Amazon send a rejection/shortlist email, or are candidates still waiting?\nIf you received an update, how many days after the OA did you receive it?\n\nJust trying to understand the current timeline for this drive. Any information would be helpful. Thanks!"
+      }
+    ],
+    "summary": "Amazon interview experience for SDE-1 at India. The candidate went through 1 primary evaluation stages (OA Date: September 2, 2026) focusing on Data Structures, System Design, and Amazon Leadership Principles. Final outcome: Rejected.",
+    "tips": [
+      "Structure all behavioral answers using the STAR format (Situation, Task, Action, Result) with quantified business impact.",
+      "Clarify ambiguous requirements upfront and discuss multiple trade-offs before writing a single line of code.",
+      "Amazon Bar Raiser evaluates team culture fit and ownership; never blame colleagues or past management."
+    ],
+    "leadership_principles": [],
+    "full_text": "Hi everyone,\r\n\r\nI completed the Amazon SDE-1 Online Assessment on September 2, 2026 through an on-campus placement drive.\r\n\r\nRole: Software Development Engineer I – Chennai\r\nJob ID: 10423461\r\nRecruitment: Amazon University Talent Acquisition\r\nOA Date: September 2, 2026\r\nToday: September 18, 2026\r\n\r\nMy placement coordinator told us that the OA result/shortlist will be communicated directly by Amazon via email.\r\n\r\nI haven't received any email from Amazon yet.\r\n\r\nFor anyone who participated in the same campus drive / same Job ID:\r\n\r\nHave you received the OA result or interview shortlist email?\r\nHas anyone received an interview call yet?\r\nDid Amazon send a rejection/shortlist email, or are candidates still waiting?\r\nIf you received an update, how many days after the OA did you receive it?\r\n\r\nJust trying to understand the current timeline for this drive. Any information would be helpful. Thanks!"
+  },
+  {
+    "id": 8527458,
+    "title": "Amazon SDE 2027 OA Received as a 2028 Graduate — How Does Eligibility Work?",
+    "role": "SDE-2",
+    "location": "USA",
+    "outcome": "Pending",
+    "post_date": "2026-09-18",
+    "interview_date": "September 2026",
+    "url": "https://leetcode.com/discuss/post/8527458/",
+    "author": "gauravnegi33",
+    "votes": 0,
+    "views": 46,
+    "tags": [
+      "Amazon",
+      "Career",
+      "Online Assessment",
+      "SDE-2",
+      "Interview Experience"
+    ],
+    "rounds": [
+      {
+        "round_name": "Round 1: Online Assessment / Phone Screen",
+        "questions": [
+          {
+            "name": "Amazon Core Problem Solving & DSA Assessment",
+            "leetcode_equivalent": "LeetCode Pattern",
+            "difficulty": "Medium",
+            "category": "Algorithms & Problem Solving",
+            "description": "Core data structure & algorithm problem covering candidate competencies.",
+            "code_snippet": ""
+          }
+        ],
+        "details": "**Amazon SDE 2027 Internship – OA Received as a 2028 Graduate**\r\n\r\nHi everyone,\r\n\r\nI’m currently a **2028 graduate**, and I recently applied to two Amazon internship roles:\r\n\r\n1. **Software Development Engineer Intern – 2027 batch**\r\n2. **Applied Scientist Intern – 2028 batch**\r\n\r\nThe interesting part is that I received the **Online Assessment (OA) invitation for both roles within around 5 minutes of submitting my applications**.\r\n\r\nFor the SDE role, the eligibility criteria mentioned **2027 graduation**, so technically I am a batch mismatch since I will graduate in 2028.\r\n\r\nThis made me wonder:\r\n\r\n* Is the Amazon OA invitation sent automatically after applying for certain student roles?\r\n* Or does receiving the OA mean that the application has already passed an initial eligibility/screening stage?\r\n* If a 2028 graduate receives an OA for a role specifically mentioning the 2027 batch, can they still proceed to the next stages if they perform well in the OA?\r\n* Has anyone else experienced the same situation — applying to a different graduation-batch role and still receiving an OA?\r\n\r\nI understand that receiving an OA may not necessarily mean final eligibility confirmation. I’m mainl"
+      }
+    ],
+    "summary": "Amazon interview experience for SDE-2 at USA. The candidate went through 1 primary evaluation stages (Round 1: Online Assessment / Phone Screen) focusing on Data Structures, System Design, and Amazon Leadership Principles. Final outcome: Pending.",
+    "tips": [
+      "Structure all behavioral answers using the STAR format (Situation, Task, Action, Result) with quantified business impact.",
+      "Clarify ambiguous requirements upfront and discuss multiple trade-offs before writing a single line of code.",
+      "Amazon Bar Raiser evaluates team culture fit and ownership; never blame colleagues or past management."
+    ],
+    "leadership_principles": [],
+    "full_text": "**Amazon SDE 2027 Internship – OA Received as a 2028 Graduate**\r\n\r\nHi everyone,\r\n\r\nI’m currently a **2028 graduate**, and I recently applied to two Amazon internship roles:\r\n\r\n1. **Software Development Engineer Intern – 2027 batch**\r\n2. **Applied Scientist Intern – 2028 batch**\r\n\r\nThe interesting part is that I received the **Online Assessment (OA) invitation for both roles within around 5 minutes of submitting my applications**.\r\n\r\nFor the SDE role, the eligibility criteria mentioned **2027 graduation**, so technically I am a batch mismatch since I will graduate in 2028.\r\n\r\nThis made me wonder:\r\n\r\n* Is the Amazon OA invitation sent automatically after applying for certain student roles?\r\n* Or does receiving the OA mean that the application has already passed an initial eligibility/screening stage?\r\n* If a 2028 graduate receives an OA for a role specifically mentioning the 2027 batch, can they still proceed to the next stages if they perform well in the OA?\r\n* Has anyone else experienced the same situation — applying to a different graduation-batch role and still receiving an OA?\r\n\r\nI understand that receiving an OA may not necessarily mean final eligibility confirmation. I’m mainly trying to understand how Amazon’s application and OA process works in this situation.\r\n\r\nIf anyone has experienced something similar, I’d really appreciate hearing what happened after completing the OA.\r\n\r\nThanks!\r\n"
+  },
+  {
     "id": 8527332,
     "title": "Amazon SDE1 India 2026 – 4-Round Loop Experience | Final Result Timeline & Chances?",
     "role": "SDE-1",
